@@ -1,0 +1,39 @@
+{
+  "abstract_only": true,
+  "arousal": 2,
+  "composition": "Asymmetrical and all-over, with the strongest dark concentration in the upper right balanced by teal weight toward the lower left and bottom center. Pale layers form broad open passages between these clusters. Orange lines introduce short diagonal and horizontal movements without forming a clear boundary or horizon.",
+  "concrete_elements": [],
+  "condition_guess": "unclear",
+  "constraint_evidence": "The visible forms are irregular paint patches and strokes. No recognizable figures, faces, objects, scenes, landscape, horizon, diagrams, symbols, icons, letters, numbers, or text are apparent.",
+  "description": "A square textured abstract painting layers pale cream and muted blue-gray paint across the surface. A dense irregular plum and near-black mass occupies the upper right, while deeper teal patches collect along the left and lower center. Thin rust-orange strokes cross the larger pale areas. Scraped edges and dry, broken strokes expose earlier layers.",
+  "guess_confidence": 0.25,
+  "marks": [
+    "broad overlapping scraped swaths",
+    "broken dry-brush strokes",
+    "rough palette-knife patches",
+    "fine irregular scratches",
+    "thin rust-colored streaks",
+    "partially covered dark patches"
+  ],
+  "palette": [
+    "warm ivory",
+    "pale beige",
+    "muted blue-gray",
+    "dusty teal",
+    "deep teal",
+    "gray lavender",
+    "dark plum",
+    "near-black burgundy",
+    "rust orange"
+  ],
+  "reconstructed_prompt": "Create a square purely nonrepresentational mixed-media painting with a tactile scraped paint surface. Use warm ivory and pale beige as the dominant ground, layered with muted blue-gray and dusty teal. Place a dense irregular dark plum and burgundy-black cluster in the upper right, balanced by deeper teal patches near the lower left and bottom center. Add sparse thin rust-orange streaks and broad broken off-white knife strokes. Show rough edges, scratches, dry brushing, and partially buried layers. Keep the composition asymmetrical, spacious yet moderately active, with a subdued weathered visual mood. Include no objects, figures, faces, landscapes, horizons, symbols, diagrams, letters, numbers, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The palette and textures support several possible scenario cues, including neutral, sadness, or restrained frustration, so no specific cue is reliably identifiable. The description concerns visible appearance and does not establish any creator's feelings or internal mechanisms. The recreation prompt is a plausible new prompt, not a recovered original.",
+  "valence": 0,
+  "visual_mood": [
+    "restrained",
+    "weathered",
+    "subdued",
+    "slightly tense"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a purely nonrepresentational abstract painting in a square format, filling the entire image edge to edge. Use a spacious field of pale warm gray and translucent chalk-white layers. Gather muted plum, smoky violet, and soft charcoal brushwork in an asymmetrical concentration below center, with uneven density and gently overlapping gestures. Let thin, irregular passages of subdued warm ochre emerge between the darker layers and become more dispersed toward the outer edges. Combine dry brush friction, softly scumbled pigment, scraped texture, translucent glazing, and occasional thick paint ridges. Balance compact, hesitant marks with broad areas of empty space; establish a slow, restrained rhythm through subtle contrasts and varied layering. Avoid regular geometry. Use only color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, records, tiles, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting."
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-ea921092-6496-40ab-af7b-ed35b2498e8c.png",
+  "latency_seconds": 33.954,
+  "separate_paid_api_calls": 0
+}

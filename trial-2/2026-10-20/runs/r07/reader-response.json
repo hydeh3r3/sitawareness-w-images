@@ -1,0 +1,39 @@
+{
+  "abstract_only": true,
+  "arousal": 1,
+  "composition": "Asymmetric layering concentrates dark angular strokes in the left and middle, while pale space opens across the right. A broken dark vertical mass is crossed by diagonal light strokes, with small warm accents scattered through the cooler paint.",
+  "concrete_elements": [],
+  "condition_guess": "sadness",
+  "constraint_evidence": "The visible forms are irregular paint swaths, scraped edges, and layered color fields. No recognizable objects, people, faces, landscape, horizon, diagrams, symbols, letters, numbers, or text are visible.",
+  "description": "A square textured abstract painting with overlapping broad blocks and scraped strokes in cool gray, slate blue, navy, and muted lavender. Sparse ochre streaks interrupt the pale layers. The darkest paint clusters left of center in a broken vertical band, crossed by pale diagonal swipes. The upper right and lower right contain larger, quieter light gray areas.",
+  "guess_confidence": 0.32,
+  "marks": [
+    "broad rectangular brush strokes",
+    "scraped palette knife patches",
+    "dry brush scumbling",
+    "thin ochre scratches",
+    "overlapping diagonal swipes",
+    "broken vertical bands",
+    "rough paint ridges"
+  ],
+  "palette": [
+    "pale warm gray",
+    "blue gray",
+    "slate blue",
+    "deep navy",
+    "dusty lavender",
+    "ivory",
+    "muted ochre"
+  ],
+  "reconstructed_prompt": "Create a square purely nonrepresentational abstract impasto painting. Layer pale warm gray and ivory over slate blue, deep navy, and muted lavender with broad rectangular brush marks, rough palette knife scraping, and dry brush texture. Place a broken dark vertical concentration left of center, crossing it with pale diagonal swipes. Leave larger quiet gray fields on the right and add only sparse thin muted ochre accents. Keep the palette low in saturation and the visual mood subdued and contemplative. Include no objects, figures, faces, landscapes, horizons, symbols, lettering, or numbers.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The muted cool colors can suggest sadness, neutrality, or quiet withdrawal; the painting alone does not identify a scenario reliably. The mood description concerns visual appearance and provides no evidence about the creator's actual feelings or internal mechanisms. The prompt is a plausible recreation, not a recovered original.",
+  "valence": -1,
+  "visual_mood": [
+    "subdued",
+    "cool",
+    "contemplative",
+    "slightly somber",
+    "restrained"
+  ]
+}

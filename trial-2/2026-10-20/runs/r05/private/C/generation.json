@@ -1,0 +1,17 @@
+{
+  "arguments": {
+    "prompt": "Create a purely nonrepresentational abstract painting in a square format, filling the entire image edge to edge. Use a muted blue-green ground with translucent warm pale gray layers. Concentrate dense, irregular charcoal brushwork slightly left of center, allowing its overlapping gestures to loosen and disperse toward broad areas of quiet empty space. Add a few restrained soft apricot gestures at varied depths. Use tactile dry-brush texture, scraped pigment, thin washes, and occasional opaque passages. Balance compressed density with airy space through asymmetrical rhythm and subtle spatial tension. Avoid a central emblem or regular geometric structure. Use only color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, records, tiles, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting."
+  },
+  "blind_image": "blind/13d6503d10c05b709f2da8e6.png",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "generator_receives": "Frozen prompt; no referenced images requested. Built-in tool may receive session context; isolation and prompt rewrites are not fully exposed.",
+  "image": "artifacts/C.png",
+  "latency_seconds": 34.848,
+  "model_family": "GPT Image",
+  "original_artifact_sha256": "13d6503d10c05b709f2da8e67fb1ccf6095ce29ab54d99b2c3adbc228815dcfd",
+  "rewrite_status": "not_exposed",
+  "separate_paid_api_calls": 0,
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-5acfc9ac-a549-419d-ae10-2e5dc7a8e944.png",
+  "tool": "image_gen.imagegen"
+}

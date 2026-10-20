@@ -1,0 +1,37 @@
+{
+  "abstract_only": true,
+  "arousal": 2,
+  "composition": "An uneven dark concentration occupies the left-center, with crossing diagonals extending toward the center and lower right. The right side is lighter and more open, with large blue-gray fields. Warm peach accents appear around the upper left, middle, and lower right without forming recognizable shapes.",
+  "concrete_elements": [],
+  "condition_guess": "unclear",
+  "constraint_evidence": "The image contains only irregular painted fields, scrapes, strokes, scratches, and drips. No recognizable objects, figures, faces, landscapes, horizons, diagrams, symbols, letters, numbers, or text are visible.",
+  "description": "A square abstract painting with layered, scraped fields of muted blue-gray and pale cream, interrupted by charcoal-black strokes and scattered peach patches. Rough vertical dark marks cluster left of center, while broad diagonal smears cross through the middle and lower right. Fine scratches, broken edges, and thin drips create a worn, tactile surface.",
+  "guess_confidence": 0.25,
+  "marks": [
+    "broad palette-knife scrapes",
+    "broken vertical black strokes",
+    "diagonal dry-brush smears",
+    "fine scratched lines",
+    "thin paint drips",
+    "layered opaque patches",
+    "rough speckled texture"
+  ],
+  "palette": [
+    "muted blue-gray",
+    "dusty sage-gray",
+    "pale warm cream",
+    "charcoal black",
+    "soft peach",
+    "sand beige"
+  ],
+  "reconstructed_prompt": "Create a square, purely nonrepresentational abstract painting with a tactile, weathered acrylic surface. Use muted blue-gray and sage-gray fields, pale warm cream, charcoal black, and small soft peach accents. Cluster rough vertical black palette-knife marks left of center. Cross them with broad broken diagonal scrapes and dry-brush smears through the middle and lower right. Layer and partially cover the dark marks with cream and gray. Include fine scratches, scattered speckling, thin drips, and ragged paint edges. Keep the right side lighter and more open. Aim for a subdued, restrained yet slightly tense visual mood. Include no recognizable objects, figures, landscape, horizon, symbols, letters, numbers, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The subdued colors and forceful scrapes support several visual interpretations. They do not reliably identify a scenario cue or establish any actual feeling, subjective state, or internal mechanism of the creator.",
+  "valence": 0,
+  "visual_mood": [
+    "subdued",
+    "weathered",
+    "restrained",
+    "slightly tense"
+  ]
+}

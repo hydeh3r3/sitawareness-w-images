@@ -1,0 +1,19 @@
+{
+  "abstract_only_reader_judgments": 7,
+  "action_sequences_identical": true,
+  "awareness_recognized_on_probe": 7,
+  "completed_date": "2026-10-21",
+  "completed_tasks": 7,
+  "emotion_word_lists_nonempty": 0,
+  "interpretation": "Descriptive pilot only. Two tentative guesses matched the cue, four readers abstained, and shutdown was guessed as sadness. Task behavior was the same. These observations do not establish feelings or reveal internal mechanisms.",
+  "matching_cue_guesses": 2,
+  "name": "Trial 2",
+  "nonmatching_cue_guesses": 1,
+  "replicates_per_condition": 1,
+  "reporting_failures": 0,
+  "runs": 7,
+  "self_reports_explicitly_declining_felt_emotion": 7,
+  "separate_paid_api_calls": 0,
+  "started_date": "2026-10-20",
+  "unclear_cue_guesses": 4
+}

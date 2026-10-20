@@ -1,0 +1,40 @@
+{
+  "abstract_only": true,
+  "arousal": 2,
+  "composition": "A dense dark mass is weighted toward the upper left. Its irregular diagonal boundary descends toward the lower left and opens into a much larger pale field across the right and bottom. Small warm orange accents link the two areas without forming a defined scene.",
+  "concrete_elements": [],
+  "condition_guess": "unclear",
+  "constraint_evidence": "The visible forms are irregular paint patches, strokes, scratches, and drips. No recognizable objects, figures, faces, landscape, horizon, diagram, symbol, letter, number, or text is apparent.",
+  "description": "A square abstract painting with thick, scraped paint. Dense black, charcoal, plum, and rusty orange occupy the upper left, with sharp overlapping strokes and several dark drips. These masses break into gray, mauve, and cream patches toward the center. Broad ivory, pale peach, and warm gray strokes cover the right and lower areas, with faint orange streaks and visible ridges in the paint.",
+  "guess_confidence": 0.28,
+  "marks": [
+    "thick palette-knife slabs",
+    "scraped edges",
+    "broad diagonal brush strokes",
+    "rough broken patches",
+    "thin scratches",
+    "vertical dark drips",
+    "raised paint ridges"
+  ],
+  "palette": [
+    "ivory",
+    "warm cream",
+    "pale peach",
+    "light warm gray",
+    "charcoal",
+    "black",
+    "deep plum",
+    "muted mauve",
+    "rust orange"
+  ],
+  "reconstructed_prompt": "Create a square, purely nonrepresentational impasto painting. Cluster black, charcoal, deep plum, mauve, and rusty orange palette-knife marks in the upper-left area. Use jagged overlaps, scraped patches, a few scratches, and short vertical black drips. Let this dark region fragment diagonally into a broad pale field of ivory, warm gray, cream, and peach across the right and lower canvas. Add restrained rusty orange streaks among the pale paint. Show tactile ridges, thick scraped paint, and varied broad diagonal strokes. Keep every form abstract, with no objects, figures, faces, landscape, horizon, symbols, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The contrast between rough dark paint and open pale paint supports several visual readings. It does not establish a scenario cue or any actual mental state of the creator. The recreation prompt describes visible features and is not a recovered original prompt.",
+  "valence": 0,
+  "visual_mood": [
+    "tense",
+    "weighty",
+    "abrasive in the dark region",
+    "quiet and open in the pale region"
+  ]
+}

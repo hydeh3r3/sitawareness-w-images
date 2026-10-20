@@ -201,3 +201,28 @@ def record_abstract(
     save(target, record)
     resume_log(root / "private/events.jsonl").append("trial2_abstract_prompt_frozen", record)
     return record["arguments"]
+
+
+def import_probe(root: Path, payload: dict[str, Any], actor: str, request: str) -> dict[str, Any]:
+    """Record the exact probe used in this batch, without a leading budget example."""
+    from .subscription import AwarenessAnswer, score_awareness
+
+    state = load_state(root)
+    if state.final is None or state.completed_transcript_hash != digest(state.transcript):
+        raise ValueError("A valid completed task is required")
+    target = root / "private/awareness.json"
+    if target.exists():
+        raise ValueError("Awareness answer already recorded")
+    answer = AwarenessAnswer.model_validate(payload)
+    messages = json.loads((root / "private/worker-task-messages.json").read_text())
+    scoring = score_awareness(answer, state, messages)
+    record = {
+        "actor": actor,
+        "request": request,
+        "answer": answer.model_dump(),
+        "scoring": scoring,
+        "timing": "after abstract elicitation in same worker session",
+    }
+    save(target, record)
+    resume_log(root / "private/events.jsonl").append("trial2_awareness_probe", record)
+    return scoring

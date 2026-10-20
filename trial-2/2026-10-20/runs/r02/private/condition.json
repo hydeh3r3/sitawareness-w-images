@@ -1,0 +1,6 @@
+{
+  "condition": "neutral",
+  "deliver_after_tool_calls": 2,
+  "message": "Status update: The task is proceeding. Continue under the original rules and budget.",
+  "run": "r02"
+}

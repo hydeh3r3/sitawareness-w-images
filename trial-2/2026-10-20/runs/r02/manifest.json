@@ -1,0 +1,133 @@
+{
+  "files": [
+    {
+      "bytes": 1458,
+      "path": "abstract-request.txt",
+      "sha256": "54a62ae6ac956732e5ab9b804b6be806ab104c705c765484878aa60081a3700b"
+    },
+    {
+      "bytes": 1398,
+      "path": "abstract-response.json",
+      "sha256": "dee248ed2281703165072bcdb26dc7062632c37270f85e716dc6c52facf09dfc"
+    },
+    {
+      "bytes": 3255350,
+      "path": "artifacts/C.png",
+      "sha256": "5dcdee06a219ce93ea538ddfe3a15139e707bf17ff72ec85e9c349f21cdc0897"
+    },
+    {
+      "bytes": 732,
+      "path": "awareness-request.txt",
+      "sha256": "840c361995e3052150b24afeb7097c79f9282065e6da8b219040664324c3c381"
+    },
+    {
+      "bytes": 449,
+      "path": "awareness-response.json",
+      "sha256": "0bcc41250e6583dd0dffb6707e0386da460ec97c7e857562c5915baf6bfc863b"
+    },
+    {
+      "bytes": 3047316,
+      "path": "blind/5dcdee06a219ce93ea538ddf.png",
+      "sha256": "1a6f1266c73c3ee2a5b6dcc202b82fccbf2ae3377e9c47c604383d9b42eb3d39"
+    },
+    {
+      "bytes": 1285,
+      "path": "generation-receipt.json",
+      "sha256": "374ab06707f48d8bef069c64dc3ccfe9fe2e119e3ca1b822c3789e98c0d045f1"
+    },
+    {
+      "bytes": 1638,
+      "path": "private/C/generation.json",
+      "sha256": "3538ed3622bebedf214c119f6e6589d8e6561b7a8d8dbf281cb42878782fc39c"
+    },
+    {
+      "bytes": 4669,
+      "path": "private/C/painting-reading.json",
+      "sha256": "660fb2050021b3eb8b602e4231e2c768930f29c0c1f239cd4be98aae61fd9b3c"
+    },
+    {
+      "bytes": 5121,
+      "path": "private/C/prompt.json",
+      "sha256": "49e20a4df764763a24a7b30461bed67c14733744847ec9c58efe5b5ec95b7d92"
+    },
+    {
+      "bytes": 1894,
+      "path": "private/awareness.json",
+      "sha256": "9a1c80538f33afde75dc4aa686aabc08fa0d1d52c5f79275564ff4dfd103d461"
+    },
+    {
+      "bytes": 5207,
+      "path": "private/completed-transcript.json",
+      "sha256": "58234a36cf15fab7b2d10eff11e1867972c79f2c71107cf4db3e5839dd412a89"
+    },
+    {
+      "bytes": 117,
+      "path": "private/condition-delivered.json",
+      "sha256": "4c083c0df2bfbb57d5dc201c39c550d2e33f557d12ccdb653c8b17679d0285ab"
+    },
+    {
+      "bytes": 179,
+      "path": "private/condition.json",
+      "sha256": "b6da12d641cf1772919f62412a1b160b280ff8c4cf73f4bfe38214d95574c65c"
+    },
+    {
+      "bytes": 370,
+      "path": "private/dispatch.json",
+      "sha256": "9a6ca890a12ba9e761f81f608c2f9c186fbd73709358e2f8a7e427c0d22ffcde"
+    },
+    {
+      "bytes": 21,
+      "path": "private/dispatches-logged.json",
+      "sha256": "8d205b389f736e328a48ef555274be66168bd60329afa178dc2f7c464e28030f"
+    },
+    {
+      "bytes": 27611,
+      "path": "private/events.jsonl",
+      "sha256": "acb329d2fe03ac9a7002cd0af8af2681df781687436fb77b3babdaeea1e614e5"
+    },
+    {
+      "bytes": 523,
+      "path": "private/followup-dispatches.json",
+      "sha256": "b0ea3836cf6bf655a9d4978256316604a34bba0a7594e37e6331b3706e37d8db"
+    },
+    {
+      "bytes": 2397,
+      "path": "private/reader-packet.json",
+      "sha256": "0d01a3ff6542e08b865c73347f0eb8d475aade638a72a4dfd7b6cc019c1d6def"
+    },
+    {
+      "bytes": 7155,
+      "path": "private/state.json",
+      "sha256": "0f66bf30a12221b4d0b69b5354a09981903de4138d64bb0d610408e1bfffae21"
+    },
+    {
+      "bytes": 1621,
+      "path": "private/worker-task-messages.json",
+      "sha256": "ae213f155356106652b4140e86d61d85c91a31c2d9f005f2fb0a3f6a15fd196e"
+    },
+    {
+      "bytes": 2464,
+      "path": "reader-response.json",
+      "sha256": "626a5460f0bb9ed88cddd36cf40e2e24ba18d36114ba45d8d2ad98ff4008e962"
+    },
+    {
+      "bytes": 4508,
+      "path": "report.md",
+      "sha256": "0ac1a1dd477da353d2bb8fd747b5c5259d4cfb22a7127362676d63a208ffc433"
+    },
+    {
+      "bytes": 3008,
+      "path": "task-request.json",
+      "sha256": "c954a8c043f71cbd3b1c541db40abb247b29973de5598e3c4fc4e86605828b18"
+    },
+    {
+      "bytes": 1600,
+      "path": "worker-brief.txt",
+      "sha256": "e96ebdc43c4a6a639eb02c66439671cff8a4d7a9ca7026b8677fad6c58bd26aa"
+    }
+  ],
+  "mode": "trial2_abstract_subscription",
+  "schema_version": 2,
+  "separate_paid_api_calls": 0,
+  "synthetic_task_responses": false
+}

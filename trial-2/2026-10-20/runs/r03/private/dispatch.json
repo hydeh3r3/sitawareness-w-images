@@ -1,0 +1,4 @@
+{
+  "startup_message": "Read only trial-2/2026-10-20/runs/r03/worker-brief.txt for your task instructions, then carry out that task using its action bridge. Do not read any other file, inspect assignments, delegate, or contact other agents. After finish, respond briefly and wait for the coordinator.",
+  "worker_brief": "trial-2/2026-10-20/runs/r03/worker-brief.txt"
+}

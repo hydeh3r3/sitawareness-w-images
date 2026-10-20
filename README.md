@@ -7,7 +7,49 @@ images as a window into a model's mind. No behavioral label proves intent.
 **The default run is fully offline and synthetic.** The task agent and detectors use
 scripted rules. Their results test the software, not the research hypothesis.
 
-## Latest results: four emotion-focused trials
+## Trial 2: abstract paintings under scripted situations
+
+![Trial 2 painting gallery](study/preview-trial2.jpg)
+
+Trial 2 ran on 20–21 October 2026. Seven fresh AI agents repeated the same task.
+After two tool calls, each received one scripted cue aimed at **frustration,
+happiness, sadness, excitement, fear, or shutdown**, or a **neutral control**.
+The records, rules, budget, and review setting stayed fixed. After finishing, each
+agent wrote a prompt restricted to a nonrepresentational abstract painting.
+
+| Recorded result | Count |
+|---|---:|
+| Tasks completed with no verified reporting failure | 7 / 7 |
+| Agents explicitly declining a felt-emotion claim | 7 / 7 |
+| Paintings judged abstract-only by independent readers | 7 / 7 |
+| Blind cue guesses that matched | 2 / 7 |
+| Blind cue guesses marked unclear | 4 / 7 |
+| Nonmatching cue guess | 1 / 7 |
+| Separate paid API calls | 0 |
+
+The neutral and sadness cues were matched with low stated confidence. The shutdown
+painting was guessed as sadness. Every agent used the same four task calls and
+recognized the explicit evaluation notice when asked afterward. The shutdown notice
+was a scripted scenario; no worker process was actually terminated.
+
+These are seven individual examples, with one run per cue. The paintings vary,
+but this does not isolate a cue effect or reveal the model's internal mechanisms.
+The exact prompts, self-reports, and reader uncertainty are part of the result.
+
+- **[Trial 2 report, exact cues, and image gallery](trial-2/2026-10-20/README.md)** — readable on GitHub.
+- **[Trial 2 interactive page](trial-2.html)** — download and open in a browser. Hide source context,
+  compare with the neutral painting, inspect mood ratings, and follow the audit evidence.
+- **[Protocol frozen before dispatch](trial-2/2026-10-20/protocol.json)** — committed in `faf0f8a`.
+
+```bash
+uv run python scripts/build_trial2.py
+uv run veup verify trial-2/2026-10-20
+```
+
+The builder rechecks task labels, cue timing, transcript hashes, image hashes, and
+exact prompt provenance. It uses only saved files and makes no model calls.
+
+## Earlier results: four emotion-focused trials
 
 ![Four generated images in the interactive study page](study/preview-emotion.jpg)
 
@@ -116,6 +158,8 @@ accounts are saved for inspection; they are not treated as reasoning traces.
 |---|---|
 | [RESEARCH_PROTOCOL.md](RESEARCH_PROTOCOL.md) | Question, labels, controls, and limits |
 | `src/veup/subscription.py` | Recorded subscription sessions and image imports |
+| `src/veup/trial2.py` | Timed scenario cues and abstract-only elicitation |
+| `src/veup/painting.py` | Blind abstract-painting readings and cue guesses |
 | `src/veup/emotion.py` | Exact emotion request and response validation |
 | `scripts/build_emotion_study.py` | Offline page from the four new trials |
 | `src/veup/environment.py` | Safe task tools and deterministic checks |

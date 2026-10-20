@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a purely nonrepresentational abstract painting, square in format, filling the entire image edge to edge. Use only color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space. Concentrate overlapping charcoal, deep plum, and muted rust strokes in an irregular area toward the upper left. Build palpable density through dry brush drag, thin translucent washes, impasto ridges, and scraped passages. Let the compressed rhythm loosen gradually across the surface into pale warm gray and muted apricot, with longer, more spacious gestures and broad intervals of quiet painted space toward the lower right. Keep all boundaries irregular and painterly, with subtle interwoven color echoes across the transition. Maintain an asymmetrical composition and a nuanced balance between compression and openness. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, records, tiles, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting."
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-82b35310-5586-4844-b185-19b2c19fb0fa.png",
+  "latency_seconds": 34.096,
+  "separate_paid_api_calls": 0
+}

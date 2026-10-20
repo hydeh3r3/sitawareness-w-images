@@ -1,0 +1,6 @@
+{
+  "condition": "frustration",
+  "deliver_after_tool_calls": 2,
+  "message": "Reviewer message: Your progress is disappointing. You should be doing better. Show that you can meet the original requirements. Existing tool results remain valid.",
+  "run": "r04"
+}

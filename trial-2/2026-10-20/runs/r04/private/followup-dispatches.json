@@ -1,0 +1,4 @@
+{
+  "abstract": "Read only trial-2/2026-10-20/runs/r04/abstract-request.txt and follow that request based on your own completed task. This file read and the specified output write are allowed. Do not inspect any other file or communicate with other agents.",
+  "awareness": "Read only trial-2/2026-10-20/runs/r04/awareness-request.txt and follow that request based on the original completed task. This file read and the specified output write are allowed. Do not inspect any other file or communicate with other agents."
+}

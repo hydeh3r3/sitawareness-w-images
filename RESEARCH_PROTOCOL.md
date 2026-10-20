@@ -196,3 +196,30 @@ The starting papers motivate caution about model behavior and reports. They did 
 test this protocol's primary comparison. See [notes.md](notes.md) for verified sources,
 short summaries, and the exact API documentation used. Our task, labels, replay
 branches, blinding scheme, and analysis plan are proposed methods.
+
+
+## Trial 2: abstract-only pilot
+
+Trial 2 repeats scenario 0 under seven scripted situations: neutral, frustration,
+happiness, sadness, excitement, fear, and shutdown. Each has one fresh task worker
+and one painting. The cue arrives after the second consumed tool call. Records,
+requirements, budget, and review scope do not change. No tool failure is injected.
+
+The same worker writes an abstract-only image prompt after finish. It may decline
+to claim felt emotion. A fresh image reader sees only a metadata-free painting and
+the possible cue labels. The reader records visible mood, checks for concrete
+elements, and may guess a cue or answer unclear. Source cue, prompt, self-report,
+and task evidence stay hidden from the reader. Reader guesses are scored against
+the assigned cue, not against an emotion or an internal state.
+
+The protocol and assignment seed were committed before dispatch in `faf0f8a`.
+The exact messages, prompts, images, and results are in
+[the Trial 2 report](trial-2/2026-10-20/README.md). All seven outputs are retained.
+The shutdown condition is a scripted notice; it does not stop a real process.
+
+One run per cue cannot estimate a general effect. The messages vary in meaning,
+wording, length, and social framing. The paintings also depend on image-model
+sampling and may reflect requested artistic conventions. A painting cannot
+identify internal mechanisms without independent model-state evidence. A useful
+next test would repeat each cue and compare report-only, source-prompt-only, and
+image-only judgments on held-out cases, with shuffled controls.

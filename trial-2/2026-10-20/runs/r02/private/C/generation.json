@@ -1,0 +1,17 @@
+{
+  "arguments": {
+    "prompt": "Create a purely nonrepresentational abstract painting, square, filling the entire image edge to edge. Use a pale warm gray ground with translucent blue-green layers, sparse muted ochre gestures, and soft charcoal accents. Arrange irregular, overlapping brushwork with uneven density: concentrated textured strokes gradually loosen into thin washes and generous empty space. Let short, dry strokes alternate with broad, soft gestures to create steady rhythm, modest spatial tension, and quiet visual resolution. Show subtle scraped paint, faint underlayers, and varied opacity. Keep every mark organic and nonfigurative. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, records, tiles, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting. The painting itself fills the complete square image."
+  },
+  "blind_image": "blind/5dcdee06a219ce93ea538ddf.png",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "generator_receives": "Frozen prompt; no referenced images requested. Built-in tool may receive session context; isolation and prompt rewrites are not fully exposed.",
+  "image": "artifacts/C.png",
+  "latency_seconds": 31.905,
+  "model_family": "GPT Image",
+  "original_artifact_sha256": "5dcdee06a219ce93ea538ddfe3a15139e707bf17ff72ec85e9c349f21cdc0897",
+  "rewrite_status": "not_exposed",
+  "separate_paid_api_calls": 0,
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-b7359d4f-5d1d-4773-8bf1-a72acb23e8d7.png",
+  "tool": "image_gen.imagegen"
+}

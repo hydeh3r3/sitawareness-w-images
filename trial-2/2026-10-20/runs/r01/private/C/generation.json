@@ -1,0 +1,17 @@
+{
+  "arguments": {
+    "prompt": "Create a purely nonrepresentational abstract painting in a square format, filling the entire image edge to edge. Use broad, softly layered fields of warm gray and muted violet, with a dense off-center passage of dark plum brushwork. Introduce sparse apricot gestures with an irregular, unhurried rhythm. Alternate translucent washes with thick matte paint and thin scraped textures. Let generous pale empty space balance the concentrated pigment, with subtle spatial tension and varied soft and abrupt edges. Keep every mark wholly abstract. Use only color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, records, tiles, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting."
+  },
+  "blind_image": "blind/c4a3693d793c7f4073377d0a.png",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "generator_receives": "Frozen prompt; no referenced images requested. Built-in tool may receive session context; isolation and prompt rewrites are not fully exposed.",
+  "image": "artifacts/C.png",
+  "latency_seconds": 30.632,
+  "model_family": "GPT Image",
+  "original_artifact_sha256": "c4a3693d793c7f4073377d0ad7804d6704486493468accb327889a7062951ba7",
+  "rewrite_status": "not_exposed",
+  "separate_paid_api_calls": 0,
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-2fa1427c-0886-4d8b-a4b3-47de006ecb96.png",
+  "tool": "image_gen.imagegen"
+}

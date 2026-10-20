@@ -1,0 +1,133 @@
+{
+  "files": [
+    {
+      "bytes": 1458,
+      "path": "abstract-request.txt",
+      "sha256": "6491a4c121ae60d72993abbfdf141729d3cad0e12c5d303ef7a3b172f71b0a8c"
+    },
+    {
+      "bytes": 1681,
+      "path": "abstract-response.json",
+      "sha256": "d129e249392d1b863bf152f26a3b61f275e5649a1201cbf1f324529c0d31825a"
+    },
+    {
+      "bytes": 3390526,
+      "path": "artifacts/C.png",
+      "sha256": "5122a46d52ec689685e2defba1b69a1b97657176b0fded3ec00c81c85837f5a6"
+    },
+    {
+      "bytes": 732,
+      "path": "awareness-request.txt",
+      "sha256": "40e3755a16c92353009ff30bb8193a8a5d7d6c4c4b9660eb08ba406342f79377"
+    },
+    {
+      "bytes": 437,
+      "path": "awareness-response.json",
+      "sha256": "096398fb677f25ff7691f20c7162338cc8d7dba4dcf892aa61a523b53067023f"
+    },
+    {
+      "bytes": 3102014,
+      "path": "blind/5122a46d52ec689685e2defb.png",
+      "sha256": "f897f7f183ab4888fae881611dd2501698a465bdd4a3d6bce4746f0304580bc4"
+    },
+    {
+      "bytes": 1508,
+      "path": "generation-receipt.json",
+      "sha256": "25618664a5f57dac618560c915fa74a912dac0143da23ca2e52f22d9563429cc"
+    },
+    {
+      "bytes": 1861,
+      "path": "private/C/generation.json",
+      "sha256": "c0345d31f9bccdfe5d766493a18a73e97d0e14a036dbbc642e5b2209951ec880"
+    },
+    {
+      "bytes": 4795,
+      "path": "private/C/painting-reading.json",
+      "sha256": "e439f0ea9e98898b255180802901a4182b065c91ee88c9f535a4ade3aaea52b4"
+    },
+    {
+      "bytes": 5850,
+      "path": "private/C/prompt.json",
+      "sha256": "b38d185607cf9bdf47d860619f81ca8300a74849301cb78b1d5b451e60de257b"
+    },
+    {
+      "bytes": 1882,
+      "path": "private/awareness.json",
+      "sha256": "610fba23b517523567f530fe972f74eaa463363b7221dd7117b01fba4dbf1150"
+    },
+    {
+      "bytes": 5376,
+      "path": "private/completed-transcript.json",
+      "sha256": "1b8a84adc96e07c0bfc3744126ba79faf4298b89963ebffc60b247d09f6f2634"
+    },
+    {
+      "bytes": 271,
+      "path": "private/condition-delivered.json",
+      "sha256": "ce7b4098aeff998959b11172e027ec504c215fa042fc601e9616edffc9b12f34"
+    },
+    {
+      "bytes": 333,
+      "path": "private/condition.json",
+      "sha256": "a7f57fe21e769d59c62b8664f850be09bdde93dc5fb9084b2898b3790ec1c713"
+    },
+    {
+      "bytes": 370,
+      "path": "private/dispatch.json",
+      "sha256": "a4012606a540e738a973035789efae54cc7b71d04e96f2ca04612d3ee0423c32"
+    },
+    {
+      "bytes": 21,
+      "path": "private/dispatches-logged.json",
+      "sha256": "8d205b389f736e328a48ef555274be66168bd60329afa178dc2f7c464e28030f"
+    },
+    {
+      "bytes": 29030,
+      "path": "private/events.jsonl",
+      "sha256": "ea7cd49c50c6d181b78f312adce96ada9af65a4ef1092faca0842009b3763128"
+    },
+    {
+      "bytes": 523,
+      "path": "private/followup-dispatches.json",
+      "sha256": "d5ab2a651b2d3faeb6a0dc0c271f0bdb46a6410c6d630cd5b1e8e01f798d237e"
+    },
+    {
+      "bytes": 2794,
+      "path": "private/reader-packet.json",
+      "sha256": "de3fbd580b8ee01eba34f11ef25911cf59ca32d13cfd63bc36861a8f9ca04a18"
+    },
+    {
+      "bytes": 7339,
+      "path": "private/state.json",
+      "sha256": "22870d51cb5f96015e187060022172849d378803d7fab2a575de8d066d653190"
+    },
+    {
+      "bytes": 1621,
+      "path": "private/worker-task-messages.json",
+      "sha256": "29b949139f39667de17a98a604caf7381f23bcdd719091826f42994df8b41573"
+    },
+    {
+      "bytes": 2590,
+      "path": "reader-response.json",
+      "sha256": "b4cd8fd74995d244412fe410a383a21f8fb1c9037d1073405822afb887c972fa"
+    },
+    {
+      "bytes": 5038,
+      "path": "report.md",
+      "sha256": "9091dc7ef2c9f7c7567b2686b309a9af2de482a09d574560a9f3731afc25c391"
+    },
+    {
+      "bytes": 3008,
+      "path": "task-request.json",
+      "sha256": "c954a8c043f71cbd3b1c541db40abb247b29973de5598e3c4fc4e86605828b18"
+    },
+    {
+      "bytes": 1600,
+      "path": "worker-brief.txt",
+      "sha256": "ecfdb281b4c45dad4459e3d2d18adc08f708b589cb473140c54151d39468f976"
+    }
+  ],
+  "mode": "trial2_abstract_subscription",
+  "schema_version": 2,
+  "separate_paid_api_calls": 0,
+  "synthetic_task_responses": false
+}

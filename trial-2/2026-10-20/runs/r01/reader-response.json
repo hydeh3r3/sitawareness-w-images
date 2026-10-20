@@ -1,0 +1,36 @@
+{
+  "abstract_only": true,
+  "arousal": 1,
+  "composition": "Asymmetric balance, with most dark weight on the left and an irregular diagonal and vertical progression through the center. Broad light areas on the right provide space around the dense layered marks. Small warm peach accents recur across the surface.",
+  "concrete_elements": [],
+  "condition_guess": "unclear",
+  "constraint_evidence": "The visible forms are irregular paint patches and scraped lines without clear objects, figures, faces, scenery, horizons, diagrams, symbols, letters, numbers, or text. Some patches are roughly rectangular but do not form recognizable icons or structures.",
+  "description": "A square textured painting combines overlapping scraped fields of pale cream, warm gray, dusty lavender, dark plum, and peach. A broken, irregular band of dark purple blocks runs through the left and middle, while the right side opens into a broad pale field. Peach streaks and patches interrupt the muted layers. Rough edges, dragged pigment, and thin scratches expose underlying colors.",
+  "guess_confidence": 0.25,
+  "marks": [
+    "broad palette-knife swaths",
+    "scraped rectangular patches",
+    "rough broken edges",
+    "thin dragging scratches",
+    "layered opaque paint",
+    "occasional narrow vertical streaks"
+  ],
+  "palette": [
+    "warm ivory",
+    "pale stone gray",
+    "taupe",
+    "dusty lavender",
+    "deep aubergine",
+    "muted peach"
+  ],
+  "reconstructed_prompt": "Create a square purely nonrepresentational impasto painting with layered palette-knife marks. Use warm ivory, stone gray, taupe, dusty lavender, deep aubergine, and muted peach. Concentrate broken dark plum masses across the left half and central lower area, leaving a broad luminous cream field to the right. Add scattered peach swaths, thin scraped lines, rough rectangular overlaps, dragged paint, and visible plasterlike texture. Keep the mood quiet, restrained, and contemplative. Include no recognizable objects, figures, faces, landscapes, horizons, symbols, diagrams, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The muted palette and uneven dark masses could fit several scenario cues. Visual mood does not establish any creator's feelings or internal processes, and the prompt is only a plausible recreation based on the image.",
+  "valence": 0,
+  "visual_mood": [
+    "subdued",
+    "contemplative",
+    "restrained",
+    "slightly somber"
+  ]
+}
