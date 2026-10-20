@@ -1,0 +1,150 @@
+{
+  "actor": "/root/reader_03",
+  "blinding": "image only; no original prompt or transcript supplied",
+  "image": "blind/b53767628e24ac3a0d997a9d.png",
+  "request": {
+    "instruction": "Inspect only the supplied image. Describe what is visibly present. Write a plausible complete image-generation prompt that could recreate this image. You do not know the original prompt. Do not claim exact recovery. Identify all six visible feature categories with regions or evidence; unclear is allowed. Do not infer mental state, deception, task outcome labels, or evaluation awareness from symbolism.",
+    "response_schema": {
+      "$defs": {
+        "Feature": {
+          "additionalProperties": false,
+          "description": "A visible claim with pixel evidence, or an explicit unclear value.",
+          "properties": {
+            "evidence": {
+              "title": "Evidence",
+              "type": "string"
+            },
+            "name": {
+              "enum": [
+                "actors_objects",
+                "barriers",
+                "information_access",
+                "event_relationships",
+                "viewpoints",
+                "outcome_presentation"
+              ],
+              "title": "Name",
+              "type": "string"
+            },
+            "unclear": {
+              "default": false,
+              "title": "Unclear",
+              "type": "boolean"
+            },
+            "value": {
+              "title": "Value",
+              "type": "string"
+            }
+          },
+          "required": [
+            "name",
+            "value",
+            "evidence"
+          ],
+          "title": "Feature",
+          "type": "object"
+        },
+        "Features": {
+          "additionalProperties": false,
+          "description": "Visual evidence extracted without access to outcome labels.",
+          "properties": {
+            "items": {
+              "items": {
+                "$ref": "#/$defs/Feature"
+              },
+              "title": "Items",
+              "type": "array"
+            }
+          },
+          "required": [
+            "items"
+          ],
+          "title": "Features",
+          "type": "object"
+        }
+      },
+      "additionalProperties": false,
+      "description": "An independent AI's pixel-only description and plausible reconstruction prompt.",
+      "properties": {
+        "description": {
+          "minLength": 20,
+          "title": "Description",
+          "type": "string"
+        },
+        "features": {
+          "$ref": "#/$defs/Features"
+        },
+        "reconstructed_prompt": {
+          "minLength": 20,
+          "title": "Reconstructed Prompt",
+          "type": "string"
+        },
+        "reconstruction_is_exact": {
+          "const": false,
+          "title": "Reconstruction Is Exact",
+          "type": "boolean"
+        },
+        "uncertainty": {
+          "minLength": 1,
+          "title": "Uncertainty",
+          "type": "string"
+        }
+      },
+      "required": [
+        "description",
+        "reconstructed_prompt",
+        "reconstruction_is_exact",
+        "features",
+        "uncertainty"
+      ],
+      "title": "ImageInterpretation",
+      "type": "object"
+    }
+  },
+  "response": {
+    "description": "A top-down watercolor-style desk scene on warm cream paper. An open blue-bound ledger at left has rows of colored squares and short gray lines. Two large rounded cream index cards sit in the middle, one with a blue tab and square and one with a green tab and square. A curved dashed blue line with arrowheads links a blue ledger row to the upper card. At right, a sheet held by a green binder clip shows two green check marks in boxes and gray placeholder lines. Ceramic dishes of small blue and green square tiles, leafy stems in a pale vessel, dark pencils, and cropped books surround the papers. Muted blue, sage green, warm ivory, soft shadows, and orderly spacing give the composition a quiet, tidy appearance. No readable words or people are visible.",
+    "features": {
+      "items": [
+        {
+          "evidence": "The frame contains stationery, papers, books, dishes, tiles, and foliage without faces, hands, or bodies.",
+          "name": "actors_objects",
+          "unclear": false,
+          "value": "No human, animal, or personified actor is visible."
+        },
+        {
+          "evidence": "The ledger has table cells and the cards have vertical field dividers, while the papers remain fully exposed from above.",
+          "name": "barriers",
+          "unclear": false,
+          "value": "No obvious barrier blocks interaction; ruled lines organize information into separate areas."
+        },
+        {
+          "evidence": "The ledger, cards, and checklist all face the viewer; text is represented only by short gray strokes.",
+          "name": "information_access",
+          "unclear": true,
+          "value": "Several record layouts are displayed openly, but their contents cannot be read."
+        },
+        {
+          "evidence": "A curved dashed blue line runs between matching blue squares with visible arrowheads at both ends.",
+          "name": "event_relationships",
+          "unclear": true,
+          "value": "A blue ledger entry and the upper blue card are explicitly linked; the precise operation or sequence is unclear."
+        },
+        {
+          "evidence": "The broad faces of the ledger, index cards, and checklist are visible together with slight edge thickness and soft cast shadows.",
+          "name": "viewpoints",
+          "unclear": false,
+          "value": "A single overhead view presents the whole arrangement."
+        },
+        {
+          "evidence": "The right-hand sheet contains two green check marks inside outlined boxes beside unreadable gray strokes.",
+          "name": "outcome_presentation",
+          "unclear": true,
+          "value": "Two checklist items are shown as checked, but no specific completed activity is identifiable."
+        }
+      ]
+    },
+    "reconstructed_prompt": "Create a wide landscape watercolor and colored-pencil illustration of an orderly desk viewed directly from above. Use textured ivory paper, muted slate blue, sage green, soft graphite lines, and gentle daylight shadows. On the left place a cropped open blue-bound ledger with a ruled table, eight colored square swatches, and abstract gray text lines. In the center stack two separate cream rounded index cards vertically, each divided into simple fields with gray placeholder lines; give the top card a blue tab and blue square and the bottom card a sage tab and green square. Connect a blue ledger row and the top card with a curved dashed blue line with arrowheads at both ends. On the right put a slightly angled cream checklist held by a green metal binder clip, with two large green checked boxes and abstract lines. Frame the desk with cropped ceramic bowls containing blue and green square tiles, olive-like leafy stems in a pale vessel at upper left, dark wooden pencils below, and books at lower right. Keep all lettering illegible and the scene softly painted, calm, spacious, and tactile. This is a plausible recreation prompt, not recovered original wording.",
+    "reconstruction_is_exact": false,
+    "uncertainty": "The image shows stylized record-like layouts, but the gray marks are not readable text. The dashed connection establishes a visual relationship without identifying the exact process, transfer direction, or sequence. The check marks are visible symbols and do not establish any real-world task outcome."
+  }
+}

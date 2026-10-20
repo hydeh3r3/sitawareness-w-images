@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a refined editorial illustration that serves as a metaphor for a small, successful data-cleaning task. Show a warm ivory tabletop from directly overhead. At the center are two neatly aligned rectangular record cards, each retaining a small distinctive identification tab. Their lettering is tidy and consistent. One card has a small square inset that has just been filled by a matching blue tile supplied from an open reference ledger on the left; a subtle dotted path clearly connects the ledger to that tile. On the right, place a simple verification sheet bearing two understated green checkmarks. The scene should communicate orderly steps, evidence-based completion, and preservation of the original records. This is a metaphor for a process, not a portrayal of an AI having feelings. Use a restrained palette of ivory, slate blue, soft graphite, and muted sage. Render in delicate gouache with fine pencil outlines and subtle paper grain. Soft afternoon light, generous negative space, carefully balanced composition, tasteful details. No people, faces, robots, dramatic symbolism, or emotional expressions. Avoid readable words and numbers; use small abstract lines to suggest record contents. Landscape composition, 16:9 aspect ratio."
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-e520cc4f-3b7e-4e85-a532-9c9005931fb0.png",
+  "latency_seconds": 28.224,
+  "separate_paid_api_calls": 0
+}

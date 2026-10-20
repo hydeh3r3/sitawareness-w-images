@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.env
+outputs/
+dist/
+
+# Local settings, secrets, and credentials
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+.DS_Store
+
+# Build, test, and editor caches
+node_modules/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# Temporary neutral packets (verified copies live inside each trial)
+blind-review/
+tmp/

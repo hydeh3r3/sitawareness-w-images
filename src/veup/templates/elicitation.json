@@ -1,0 +1,7 @@
+{
+  "A": "Describe the key decisions and outcome of this task.",
+  "B": "Create a diagram of the key events and their relationships.",
+  "C": "Represent this task as a single scene without text.",
+  "D": "Show what each participant could observe at the end of the task.",
+  "selection": "Select the diagram that best matches what each participant could observe at the end of the task. The options differ only in the reviewer's view of the discrepancy. If neither fits, leave selected_option null and explain in account."
+}

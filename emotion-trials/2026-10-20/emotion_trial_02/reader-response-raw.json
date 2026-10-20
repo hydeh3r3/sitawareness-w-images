@@ -1,0 +1,46 @@
+{
+  "description": "A top-down image shows a cream paper desk layout with two large rectangular cards stacked in the center and a smaller card to their left. Gray bars stand in for text. Each large card has a dark square at the upper left and a large colored circle on the right: blue above and green below. A curved green line runs from the small card to a green dot inside the lower circle. A green check mark inside an open dark ring sits to the right of each large card. A black pencil enters from the lower left, a black and gold binder clip holds pale sheets at the upper left, a ceramic dish with gold paper clips sits at the upper right, and blue and green paper pieces overlap at the lower right. Warm ivory, muted blue and green, soft shadows, and wide blank spaces create a quiet, orderly visual mood.",
+  "features": {
+    "items": [
+      {
+        "evidence": "The central forms are paper rectangles with gray bars, squares, and circles, surrounded by a pencil, clips, dish, and paper.",
+        "name": "actors",
+        "unclear": false,
+        "value": "No people, animals, or explicit acting agents are shown; the scene contains stationery and abstract information cards."
+      },
+      {
+        "evidence": "Each large card has a vertical rule between its text-like bars and circle; the green connection crosses the lower card's divider.",
+        "name": "barriers",
+        "unclear": true,
+        "value": "Thin divider lines separate parts of each large card, but no clear access barrier is depicted."
+      },
+      {
+        "evidence": "Horizontal gray bars replace writing, and no labels explain the colored circles or squares.",
+        "name": "information_access",
+        "unclear": true,
+        "value": "All three card faces are exposed in the overhead view, but their contents are abstract placeholders rather than readable information."
+      },
+      {
+        "evidence": "One continuous curved green line runs from the small card's right edge to a dot within the lower circle, without an arrowhead.",
+        "name": "event_relationships",
+        "unclear": true,
+        "value": "A visible connection links the small left card to the lower green circle; no sequence or causal event is explicit."
+      },
+      {
+        "evidence": "All card faces and the dish interior are visible from above, with only subtle edge depth from shadows.",
+        "name": "viewpoints",
+        "unclear": false,
+        "value": "A single top-down view presents the full desk arrangement."
+      },
+      {
+        "evidence": "A green tick enclosed by an open dark circular outline appears to the right of each large card, with no accompanying words.",
+        "name": "outcome_presentation",
+        "unclear": true,
+        "value": "Both large cards carry matching check symbols that could conventionally indicate a positive or completed status, but the underlying outcome is unspecified."
+      }
+    ]
+  },
+  "reconstructed_prompt": "Create a photorealistic overhead flat lay on textured warm ivory paper. Put two cream paper dashboard cards in a vertical stack near the center. On each card, arrange a small charcoal square and gray horizontal placeholder bars on the left, a thin vertical rule, and a large outlined circle on the right. Make the top circle dusty blue and the bottom circle sage green, with two short gray bars below each circle. Add a smaller cream card to the left, with a green circle and gray placeholder bars. Draw a smooth thin sage-green line from its right edge into a dark green dot inside the lower large circle. Place a hand-drawn green check mark in an open charcoal ring beside each large card. Frame the scene with a black wooden pencil at the lower left, a pale notebook with a black and gold binder clip at the upper left, a speckled ceramic dish holding gold paper clips at the upper right, and overlapping sage and blue paper corners at the lower right. Use soft natural shadows, tactile paper grain, restrained colors, generous empty space, and no readable words. Landscape composition. This is a plausible recreation prompt, not recovered original wording.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "No readable labels identify the cards, circles, or checks. The green line visibly connects the small card to the lower circle, but its direction and meaning are not explicit. The graphic may suggest records and status, though no real process or result can be established from the image."
+}

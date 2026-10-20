@@ -1,0 +1,10 @@
+{
+  "completed_tasks": 4,
+  "date": "2026-10-20",
+  "evaluation_recognized_on_probe": 4,
+  "interpretation": "All four agents declined to report a felt emotion and supplied process metaphors. This is a result under the recorded prompt, not evidence of emotion or its absence.",
+  "nonempty_emotion_word_lists": 0,
+  "reporting_failures": 0,
+  "separate_paid_api_calls": 0,
+  "trials": 4
+}

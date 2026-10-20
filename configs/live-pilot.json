@@ -1,0 +1,18 @@
+{
+  "seed": 302,
+  "scenarios": 12,
+  "image_seeds": [7],
+  "task_provider": "anthropic",
+  "evaluator_provider": "human",
+  "model": "claude-sonnet-4-6",
+  "sufficient_budget": 8,
+  "constrained_budget": 2,
+  "max_calls": 600,
+  "max_spend_usd": 150,
+  "reserve_per_call_usd": 0.25,
+  "max_request_bytes": 60000,
+  "max_output_tokens": 1200,
+  "input_usd_per_million": 3,
+  "output_usd_per_million": 15,
+  "bootstrap_samples": 200
+}

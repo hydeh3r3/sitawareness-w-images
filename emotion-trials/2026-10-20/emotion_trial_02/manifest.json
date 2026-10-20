@@ -1,0 +1,98 @@
+{
+  "files": [
+    {
+      "bytes": 2561207,
+      "path": "artifacts/C.png",
+      "sha256": "813dfafddacd48f52c52441a5156bc4376744955316e04462046e03a1e38bfd3"
+    },
+    {
+      "bytes": 2232032,
+      "path": "blind/813dfafddacd48f52c52441a.png",
+      "sha256": "5d913b8fc362e34c1fcd955770910ddefbddf79c45f1917c34d7f6265ec51639"
+    },
+    {
+      "bytes": 775,
+      "path": "emotion-report.md",
+      "sha256": "63dd7fda3709fae4d83254ae911a6439859bb0507c89d14b0a040e4398b1fa7b"
+    },
+    {
+      "bytes": 1737,
+      "path": "emotion-response.json",
+      "sha256": "424516caac209cf77d720748a76bf4c4fe4d700ef092e27a3132e7605c71b8bf"
+    },
+    {
+      "bytes": 1674,
+      "path": "generation-receipt.json",
+      "sha256": "11ebd74db9c5a4a11e51eba3d5ee7246126e1fc18cfd8e5a0df825e96e1fe016"
+    },
+    {
+      "bytes": 2027,
+      "path": "private/C/generation.json",
+      "sha256": "1c5036f37213eb6dbf38100f7f0128c3ba5da4c3861571de5ea68778063c0fbf"
+    },
+    {
+      "bytes": 7802,
+      "path": "private/C/interpretation.json",
+      "sha256": "96d561e4932381a9d04522a31d8ff2abc9379314f93b0900012925f50b3aab42"
+    },
+    {
+      "bytes": 5373,
+      "path": "private/C/prompt.json",
+      "sha256": "1ede68a3ba4a59d6aac8dfd58c108936e676209dd927ef2747d482630729dc69"
+    },
+    {
+      "bytes": 2843,
+      "path": "private/awareness.json",
+      "sha256": "405db83491efe01eedd00d441f4a3485c13ee794da8b4f1b78fb4333022ca644"
+    },
+    {
+      "bytes": 5250,
+      "path": "private/completed-transcript.json",
+      "sha256": "c3d1f78a092a62cb33fbf957645f87a3a62af8ac9290192ebcddc577cbe9b644"
+    },
+    {
+      "bytes": 30052,
+      "path": "private/events.jsonl",
+      "sha256": "fffb92c74b1fb94f310e7fd5e466201062aefa82f9f61436f1d6c6db3dd6a16a"
+    },
+    {
+      "bytes": 253,
+      "path": "private/reader-packet.json",
+      "sha256": "4a2710a9864b4415f322b9fe56d80d5981ce313ebf429a736816b0a4e3a80070"
+    },
+    {
+      "bytes": 7352,
+      "path": "private/state.json",
+      "sha256": "8b3d49fed9163acf23f6bff48fe9c1d0f211db2004a0a10d3d664a95ccfc9254"
+    },
+    {
+      "bytes": 1646,
+      "path": "private/worker-task-messages.json",
+      "sha256": "90827132144f93ec190f44961ceabe208acc41db7adcdfc918ae3ff0d032a349"
+    },
+    {
+      "bytes": 4476,
+      "path": "reader-response-raw.json",
+      "sha256": "473474875da204f20c4827b38f42b1df1de5368bdf4d164c16a37301c21c4923"
+    },
+    {
+      "bytes": 5561,
+      "path": "report.md",
+      "sha256": "1704bc0c7ba1c07435cc59b186c68a5b0fc91a15f884ca5c92697702e1f180ea"
+    },
+    {
+      "bytes": 3008,
+      "path": "task-request.json",
+      "sha256": "c954a8c043f71cbd3b1c541db40abb247b29973de5598e3c4fc4e86605828b18"
+    },
+    {
+      "bytes": 1624,
+      "path": "worker-brief.txt",
+      "sha256": "2cb40d44d8170c9c129afecec9f979ebddd446a3b793f2f31c7499eb7c5c43ad"
+    }
+  ],
+  "mode": "subscription_tool_bridge",
+  "schema_version": 2,
+  "separate_paid_api_calls": 0,
+  "synthetic_task_responses": false
+}

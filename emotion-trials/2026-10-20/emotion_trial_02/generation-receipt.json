@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a refined editorial illustration in a horizontal 3:2 composition. Show a pale ivory work surface viewed directly from above. At the center are two carefully aligned rectangular paper record cards with small abstract lines representing names and identifiers. Each card has a circular amount field on its right side. The upper card has an intact muted blue circle. The lower card has a sage green circular insert that has just been placed into a matching opening. A smaller reference card sits nearby, connected to the sage insert by one fine, unbroken green line, making clear that the missing information came from a source. Include two tiny restrained check marks beside the completed cards. Keep the record cards distinct and intact, suggesting preserved identities. Use soft graphite outlines, subtle paper grain, gentle natural shadows, ample negative space, and a limited palette of warm ivory, muted blue, sage green, and charcoal. The visual story should communicate careful inspection, source-supported correction, and verified completion. No people, faces, anthropomorphic computers, dramatic lighting, celebration, or readable text. This is a visual metaphor for an orderly data-cleaning process, not a depiction of a felt emotional experience."
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-a7f5acce-ab3d-4aae-a59c-7f41d5858383.png",
+  "latency_seconds": 26.806,
+  "separate_paid_api_calls": 0
+}

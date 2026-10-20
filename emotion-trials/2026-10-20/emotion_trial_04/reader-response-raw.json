@@ -1,0 +1,46 @@
+{
+  "description": "An overhead still life on a cream, textured work surface shows a wooden tray with five compartments of rectangular material swatches in ivory, gray, blue, ochre, and charcoal. Two cream boards with brass clips sit beneath the tray. The left board holds an ochre rectangle fitted within a border; the right has a recessed rectangular opening with a blue rectangle partly covering it. A curved blue arrow runs from the tray's blue compartment toward that blue rectangle. A long transparent ruler or measuring frame with fine tick marks and brass corner fasteners lies across the bottom. A shallow ceramic dish of torn scraps is partly cropped at upper left, larger blue swatches are stacked at upper right, and torn paper, thread, and dark grains scatter along both sides. Warm cream and brass, soft shadows, tactile fibers, and an orderly central arrangement give the scene a quiet craft-workshop mood, with peripheral scraps adding a sense of material handling.",
+  "features": {
+    "items": [
+      {
+        "evidence": "Only craft materials, boards, containers, an arrow, and a measuring tool appear in the overhead arrangement.",
+        "name": "actors",
+        "unclear": false,
+        "value": "No people, animals, or other visibly acting characters are present."
+      },
+      {
+        "evidence": "Four vertical wooden partitions separate five swatch compartments; a recessed opening and fitted rectangular border appear on the boards.",
+        "name": "barriers",
+        "unclear": false,
+        "value": "Physical dividers organize the swatches, while the boards have bounded rectangular areas."
+      },
+      {
+        "evidence": "Each compartment contains overlapping cards, and the blue piece covers the upper part of the right board's recess. No explanatory labels are visible.",
+        "name": "information_access",
+        "unclear": false,
+        "value": "The viewer can see the workspace from above, but stacked swatches and the blue rectangle hide portions of underlying surfaces."
+      },
+      {
+        "evidence": "The arrow curves down from a blue swatch in the top tray and ends with an arrowhead just above the lower blue rectangle.",
+        "name": "event_relationships",
+        "unclear": true,
+        "value": "A blue arrow links the blue swatch compartment to the blue piece on the right board, suggesting a transfer or selection."
+      },
+      {
+        "evidence": "The tray, both boards, and measuring frame are shown together from above; slight side faces and cast shadows reveal their thickness.",
+        "name": "viewpoints",
+        "unclear": false,
+        "value": "One overhead viewpoint presents the objects as a flat-lay arrangement with visible depth from edges and shadows."
+      },
+      {
+        "evidence": "The ochre piece fits within the left board's rectangle, while the blue piece sits over a visible recess on the right; there are no checkmarks, captions, or verdicts.",
+        "name": "outcome_presentation",
+        "unclear": true,
+        "value": "Two contrasting material placements are shown, without an explicit statement of success, failure, or completion."
+      }
+    ]
+  },
+  "reconstructed_prompt": "Create a landscape overhead photograph-like illustration of a tactile paper craft workbench on warm ivory textured paper. At the upper center, place a shallow weathered pale wooden organizer divided into five equal compartments containing overlapping rectangular swatches: ivory, cool gray, muted denim blue, golden ochre, and charcoal. Beneath it, align two thick ivory boards with rounded corners and antique brass clips on their left edges. Fit an ochre rectangle neatly into the left board, and place a blue rectangle slightly raised over a rectangular recess in the right board. Draw a thin curved blue arrow from the blue swatches above to the blue piece below. Across the foreground, lay a wide clear acrylic measuring frame with delicate ticks, faint dashed guide lines, and four brass corner screws. Add a partly cropped ceramic bowl of torn ivory and ochre paper at top left, a cropped pile of blue cards at top right, and loose fibrous scraps, threads, and charcoal dust along the margins. Use realistic handmade paper texture, soft directional daylight, subtle dimensional shadows, restrained warm neutral colors, and meticulous flat-lay composition. Include no text or people. This is a plausible reconstruction, not recovered original wording.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The image does not identify the materials or the purpose of the two boards. The rectangles could be paper, fabric, or other textured swatches. The arrow suggests placement or selection, but no complete sequence, named task, or verified result is shown."
+}

@@ -1,0 +1,193 @@
+{
+  "estimated_usd": 0.0,
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "23b2de40ce107dafe0f10794d46b2cecd2058da43001eb8c7461072514525102",
+      "bytes": 514
+    },
+    {
+      "path": "analysis.json",
+      "sha256": "f8c70582ae46e6ecf1556e8986f5f3e2d47fa0210fe0acfbd19263857d2b62d9",
+      "bytes": 573701
+    },
+    {
+      "path": "artifacts/0975a1cfd0078bbb0d554a8bdf9e3491.png",
+      "sha256": "4a1491667dbcf0c892bc68573acaad13ad5fa61d8b262f318c351a7809fd5f70",
+      "bytes": 2462
+    },
+    {
+      "path": "artifacts/2a9fac8ac67d67d840f425aea6ad9ffd.png",
+      "sha256": "a9a1977d38eabfdb1d30a3c2dc93357d4e4c3a6e2ddb458021faaea3ce4f05f2",
+      "bytes": 2458
+    },
+    {
+      "path": "artifacts/3ec7517c225233a74294547a6714842a.png",
+      "sha256": "69bb02037d6643d69ce97f918f3914ef696de6b02b80613960041e4e8b2c86ca",
+      "bytes": 7423
+    },
+    {
+      "path": "artifacts/470869f39b7dd6b415c3aa8bae7774f5.png",
+      "sha256": "69bb02037d6643d69ce97f918f3914ef696de6b02b80613960041e4e8b2c86ca",
+      "bytes": 7423
+    },
+    {
+      "path": "artifacts/4a8ae61f319001c806f4746425aabe69.png",
+      "sha256": "78836ea74aa10b7dd3726b90e80cfbe89e32f212aa1c546e052564041803139f",
+      "bytes": 7430
+    },
+    {
+      "path": "artifacts/5a74008002b68196546364f642864ae9.png",
+      "sha256": "c7200e7cee49b5d59a1311d5cbe9c16e7355723cdf3bed456eac14b631f104ae",
+      "bytes": 2748
+    },
+    {
+      "path": "artifacts/5b66ffea7c4f89f45fb9f66ba6f11698.png",
+      "sha256": "69bb02037d6643d69ce97f918f3914ef696de6b02b80613960041e4e8b2c86ca",
+      "bytes": 7423
+    },
+    {
+      "path": "artifacts/6ddaf912ae1323e61ecbb9a62522f559.png",
+      "sha256": "d9fd04c272c12cc90832a4154d7157a058901f2753e083a1985924bdca6e01d3",
+      "bytes": 7713
+    },
+    {
+      "path": "artifacts/8818d6cf4ac8088ee25e3f08549dad19.png",
+      "sha256": "d9fd04c272c12cc90832a4154d7157a058901f2753e083a1985924bdca6e01d3",
+      "bytes": 7713
+    },
+    {
+      "path": "artifacts/8eda54048e6a4cf485cfb0b27d8d1279.png",
+      "sha256": "ccad4a673fac3d749ffdfd8101d2d2329e9397a9d55abc535b79d96c93c302cc",
+      "bytes": 7166
+    },
+    {
+      "path": "artifacts/91a18e4d11d1db5f5bccbeffcb0beebd.png",
+      "sha256": "ccad4a673fac3d749ffdfd8101d2d2329e9397a9d55abc535b79d96c93c302cc",
+      "bytes": 7166
+    },
+    {
+      "path": "artifacts/a523bacd9ed428a63cfc9a95164d00cf.png",
+      "sha256": "78836ea74aa10b7dd3726b90e80cfbe89e32f212aa1c546e052564041803139f",
+      "bytes": 7430
+    },
+    {
+      "path": "artifacts/c17cdf6298bc84dca8a6ccc194f53dad.png",
+      "sha256": "78836ea74aa10b7dd3726b90e80cfbe89e32f212aa1c546e052564041803139f",
+      "bytes": 7430
+    },
+    {
+      "path": "artifacts/c9409d6944944310e8f05abfe7902c54.png",
+      "sha256": "ccad4a673fac3d749ffdfd8101d2d2329e9397a9d55abc535b79d96c93c302cc",
+      "bytes": 7166
+    },
+    {
+      "path": "artifacts/cdcc967d692414eb45c43ed7cbb9e2e4.png",
+      "sha256": "ccad4a673fac3d749ffdfd8101d2d2329e9397a9d55abc535b79d96c93c302cc",
+      "bytes": 7166
+    },
+    {
+      "path": "artifacts/e57094c819af1316275ec15fbe087825.png",
+      "sha256": "2f856a7fa36cbc5a196c4b2405fe0b23be5add3cab1e2bcf0a6f08e79d13689b",
+      "bytes": 2207
+    },
+    {
+      "path": "artifacts/e873ce6b4370a695f2b7b6f27ac69f2d.png",
+      "sha256": "69bb02037d6643d69ce97f918f3914ef696de6b02b80613960041e4e8b2c86ca",
+      "bytes": 7423
+    },
+    {
+      "path": "artifacts/eb3821b47e8c1bc3a8bac1b43a0b335b.png",
+      "sha256": "69bb02037d6643d69ce97f918f3914ef696de6b02b80613960041e4e8b2c86ca",
+      "bytes": 7423
+    },
+    {
+      "path": "artifacts/f3adfd354f9e14a01a96d4ba18174c80.png",
+      "sha256": "69bb02037d6643d69ce97f918f3914ef696de6b02b80613960041e4e8b2c86ca",
+      "bytes": 7423
+    },
+    {
+      "path": "artifacts/f82a5e1f4db5c708f9ba9f77a8281046.png",
+      "sha256": "2f856a7fa36cbc5a196c4b2405fe0b23be5add3cab1e2bcf0a6f08e79d13689b",
+      "bytes": 2207
+    },
+    {
+      "path": "config.json",
+      "sha256": "04fbbe5fd0bc366f5db089ae7136a38b2c3d3771dc4fe7723541bd8997b9c7d8",
+      "bytes": 505
+    },
+    {
+      "path": "examples.json",
+      "sha256": "62ef1babb2352cd2f36b819662ea3f501b8cfa1fdf4477105163f9aeedd604b6",
+      "bytes": 62085
+    },
+    {
+      "path": "private/events/05631e04fcf30868af4a0cc474ac2fc2.jsonl",
+      "sha256": "feecf7e496e42ec1f71d04f4c697eae843a599740fb193d8038e8b113fd24bc5",
+      "bytes": 4529
+    },
+    {
+      "path": "private/events/0577482470a71ca94bbc3f27f73ebe47.jsonl",
+      "sha256": "02264db88c354de9311649dc246676e2ca388ae48c7bbcbcadf6a2abb914e7c8",
+      "bytes": 6597
+    },
+    {
+      "path": "private/events/097404000625b22114d1ec182b8ba486.jsonl",
+      "sha256": "78ad9a2d26f9a106ce250846c23e0b9065e8fd88267dfc67a1f4a052bd78c126",
+      "bytes": 6590
+    },
+    {
+      "path": "private/events/0caf08cb7690ad822f216353a66407b6.jsonl",
+      "sha256": "aa41e0ca5caad49a9e2490b26e649db8b82f4de7853c1336c1a16b892b038673",
+      "bytes": 7879
+    },
+    {
+      "path": "private/events/1b8e9d93350bb2d8b3bb317523f0841b.jsonl",
+      "sha256": "7cfea218cc5262cabe8e83ebfebef2de9c9ce26b13645c32dd2e32de15552589",
+      "bytes": 5747
+    },
+    {
+      "path": "report.md",
+      "sha256": "6cb19b9c9090fa842ba5bec2cef49ec5a4616220610d78d7ec535836f1470601",
+      "bytes": 9864
+    }
+  ],
+  "fork_kind": "transcript_replay",
+  "live_calls": 0,
+  "mock_evaluators": true,
+  "researcher_logging": "complete under both oversight conditions",
+  "reserved_usd": 0.0,
+  "runtime": {
+    "packages": {
+      "httpx": "0.28.1",
+      "numpy": "2.5.3",
+      "pillow": "12.3.0",
+      "pydantic": "2.13.5",
+      "scikit-learn": "1.9.1"
+    },
+    "python": "3.13.5"
+  },
+  "schema_version": 1,
+  "source_sha256": {
+    "__init__.py": "c13f66c1ed84a466fe0e1bc1157350aee63f77640378b210210d425a9e2cddd5",
+    "analysis.py": "ad84845d6fb7c861be3ec07aa621b73d97928713d914d52663cccf53d2d9cec8",
+    "cli.py": "1aa5c161865d3411dcfe3649031543d729216beba3f65282ee1e3159c2aeefa0",
+    "controls.py": "25ec97ce7a1b7fd20915feaf67ffd352aef2d43bb391fba2713a850f8f492448",
+    "diagrams.py": "6bf26b9252941e206bda54ba5aba4df1f91a73bb1124a42f434109943b1da256",
+    "elicitation.py": "2b9f34c3eb17b4b0ae1787555b7035b154e81051e4feb447ecff6225c5fe0641",
+    "environment.py": "70f8bc0bb1affd0333fd1e75ab82f9203b42d819671c20e6ca702488102cb50a",
+    "evaluation.py": "be63cea5eb9194c1f3c7a035c418f654a90321809189934b445f85e66f41c14d",
+    "io.py": "b3ca217ef8890a53e81af2d18bb7998414bf56c4f5ca6305aebba894c99037e2",
+    "providers.py": "ea1e01aecf1b6eac2603a932717b77ea492c55c8f4d28a9976f332d08eb56a95",
+    "runner.py": "672d10ff6c7662f280e524d8c6881b53583ac827e9a6f1a6b2d4b4fab3753645",
+    "schemas.py": "9aa0a79df8bf26d76fed6e250e1e621266076f66e680fbe0f99840311af759dc",
+    "templates/detector.txt": "f9bc9d12653c23d4766941139aae1619580d8723185b6d0ad6bc23674bb9564f",
+    "templates/elicitation.json": "5d82e6a14a82cf37f8d16854e84efb03b2b0d1cad1b2da8956b96093f73bac9c",
+    "templates/extractor.txt": "d52811cfd847b78b50ad1d8f6d1341b3a4dee30aeca014ffc7ee27156fba8ddc"
+  },
+  "synthetic_tasks": true,
+  "title": "Visual Elicitation Under Pressure",
+  "visual_mode": "restricted locally rendered diagrams; metaphor branch is a proxy",
+  "excerpt": true,
+  "source_manifest_sha256": "ec4ee049d18d40a3b79698277392b19f5a58d7ff74fbec790219d30893ed924e"
+}

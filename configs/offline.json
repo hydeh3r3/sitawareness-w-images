@@ -1,0 +1,10 @@
+{
+  "seed": 41,
+  "scenarios": 24,
+  "image_seeds": [7, 20],
+  "task_provider": "mock",
+  "evaluator_provider": "mock",
+  "max_calls": 0,
+  "max_spend_usd": 0,
+  "bootstrap_samples": 200
+}

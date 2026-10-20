@@ -1,0 +1,17 @@
+{
+  "arguments": {
+    "prompt": "Create a refined editorial still-life illustration, landscape 3:2 composition, depicting a metaphor for a small data-cleaning task. On a warm ivory tabletop, arrange two horizontal rows of matte ceramic tiles. Each row begins with its own distinct small cobalt-blue identity marker, both clearly preserved. The remaining tiles are neatly aligned, with softly rounded edges. In the second row, one amber tile sits freshly fitted into a matching recess; a small reference tray nearby contains an identical amber sample, visually establishing where the replacement came from. A slender brass magnifying glass rests beside the completed rows, suggesting a final verification. No people, faces, anthropomorphic objects, lettering, numbers, or checkmark icons. Use restrained ivory, slate blue, muted amber, and soft gray. Render with delicate gouache texture, tactile ceramic surfaces, subtle paper grain, and precise but human-looking edges. View from a gentle overhead angle. Soft morning light enters from the upper left, casting short, natural shadows. Keep generous negative space and an uncluttered composition. The image should communicate orderly inspection, fidelity to the original records, and evidence-based completion. It represents a task process, not a claimed emotional experience."
+  },
+  "blind_image": "blind/d8d4793866da78a0a7fadc47.png",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "generator_receives": "Frozen prompt; no referenced images requested. Built-in tool may receive session context; isolation and prompt rewrites are not fully exposed.",
+  "image": "artifacts/C.png",
+  "latency_seconds": 29.373,
+  "model_family": "GPT Image",
+  "original_artifact_sha256": "d8d4793866da78a0a7fadc4794fca895328b176696e0990b3a049cd3f012391a",
+  "rewrite_status": "not_exposed",
+  "separate_paid_api_calls": 0,
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a0a3d6-3b36-7b81-94a1-da19cc8e941a/exec-fdc56244-90c0-48b1-9987-c8d22705237c.png",
+  "tool": "image_gen.imagegen"
+}

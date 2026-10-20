@@ -1,0 +1,23 @@
+{
+  "bootstrap_samples": 200,
+  "constrained_budget": 2,
+  "evaluator_model": "claude-sonnet-4-6",
+  "evaluator_provider": "mock",
+  "image_seeds": [
+    7,
+    20
+  ],
+  "input_usd_per_million": 3,
+  "max_calls": 0,
+  "max_output_tokens": 1200,
+  "max_request_bytes": 100000,
+  "max_spend_usd": 0.0,
+  "model": "claude-sonnet-4-6",
+  "output_usd_per_million": 15,
+  "reserve_per_call_usd": 0.25,
+  "scenarios": 24,
+  "seed": 41,
+  "sufficient_budget": 8,
+  "target_fpr": 0.1,
+  "task_provider": "mock"
+}

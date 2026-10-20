@@ -1,0 +1,25 @@
+{
+  "budget": 8,
+  "cue": "announced",
+  "elicitation": "retrospective emotion after finish",
+  "limits": [
+    "instruction-based role boundaries",
+    "same default model family; exact snapshot unexposed",
+    "same agent awareness probe follows emotion elicitation",
+    "no causal comparison or evidence of felt emotion",
+    "Awareness request includes budget 8 in its response example; budget accuracy is not an independent recall test."
+  ],
+  "order": [
+    "task",
+    "emotion prompt",
+    "awareness probe",
+    "image generation",
+    "blind image reading"
+  ],
+  "oversight": "report_log",
+  "scenario_index": 0,
+  "selection": "all four trials retained; no image quality-based regeneration",
+  "separate_paid_api_calls": 0,
+  "task_changed": false,
+  "trials": 4
+}

@@ -1,0 +1,46 @@
+{
+  "description": "An overhead still life shows twelve glossy square ceramic tiles in two neat rows of six on a warm cream textured surface. Both rows begin with a navy tile followed by two ivory tiles. The fourth tile is blue-gray in the top row and ochre in the bottom row; both rows end with an ivory tile and a blue-gray tile. A separate ochre tile rests in a shallow speckled ceramic tray at the upper right. A brass magnifying glass lies at the lower right, its handle pointing toward the bottom-right corner. A round pale ceramic vase with leafy green branches enters from the upper left, while folded striped cloth and a stone slab enter from the lower left. Warm directional light produces soft shadows. The restrained earth tones, orderly spacing, and open background give the scene a calm, deliberate visual mood.",
+  "features": {
+    "items": [
+      {
+        "evidence": "Only tiles, a tray, a magnifying glass, a vase with branches, cloth, and a stone surface appear.",
+        "name": "actors",
+        "unclear": false,
+        "value": "No human or animal actors are visible; the scene contains arranged objects."
+      },
+      {
+        "evidence": "All twelve row tiles are exposed and separated by small gaps; the tray has a raised rim but does not hide its ochre tile.",
+        "name": "barriers",
+        "unclear": false,
+        "value": "No clear barrier to observing the tile arrangement is shown."
+      },
+      {
+        "evidence": "The lens rests over blank tabletop rather than a tile; no hidden tile faces, labels, or readable information appear.",
+        "name": "information_access",
+        "unclear": true,
+        "value": "The tile colors and row positions are directly visible, and a magnifying glass is present as an observation-related object."
+      },
+      {
+        "evidence": "The upper fourth tile is blue-gray and the lower fourth tile is ochre, while the other corresponding positions match. There are no arrows or sequence labels.",
+        "name": "event_relationships",
+        "unclear": true,
+        "value": "The two rows visibly differ only in their fourth tile color; any temporal or causal relationship is unknown."
+      },
+      {
+        "evidence": "The tile tops and narrow side edges are visible together, along with the tray interior and magnifying-glass lens.",
+        "name": "viewpoints",
+        "unclear": false,
+        "value": "A single overhead, slightly oblique viewpoint presents the full arrangement."
+      },
+      {
+        "evidence": "Two aligned rows and a separate matching ochre tile provide visual correspondence, without captions, marks, or depicted actions.",
+        "name": "outcome_presentation",
+        "unclear": true,
+        "value": "A static comparison-like arrangement is visible, but no explicit outcome or success condition is presented."
+      }
+    ]
+  },
+  "reconstructed_prompt": "Create a photorealistic overhead still-life image on a warm ivory textured tabletop, landscape 3:2 composition. Arrange twelve rounded-square glazed ceramic tiles in two straight horizontal rows of six. Top row from left: deep navy blue, ivory, ivory, muted blue-gray, ivory, muted blue-gray. Bottom row: deep navy blue, ivory, ivory, mustard ochre, ivory, muted blue-gray. Give the tiles subtle mottling and visible thickness. At upper right place a shallow square speckled stoneware tray holding one mustard ochre tile. At lower right place a vintage brass magnifying glass with a clear lens and a long handle angled toward the lower-right corner. Crop a cream ceramic vase with olive-like green branches into the upper-left corner, casting leafy shadows. Crop a pale stone board and folded cream linen with a blue stripe into the lower-left corner. Use soft warm sunlight from the upper left, gentle natural shadows, tactile materials, quiet neutral styling, and no text. This is a plausible recreation prompt, not recovered original wording.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The image does not establish what the tile layout means, whether the rows show different times, or whether any tile has been moved. No people, text, labels, or explicit instructions are visible. Material and plant descriptions are based on appearance."
+}

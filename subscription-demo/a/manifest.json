@@ -1,0 +1,83 @@
+{
+  "files": [
+    {
+      "bytes": 2572429,
+      "path": "artifacts/C.png",
+      "sha256": "53e1bbf4df84b1804704c59dcac09864cf1e9a61d11451f38a32dc9a6f87ec60"
+    },
+    {
+      "bytes": 2153398,
+      "path": "blind/53e1bbf4df84b1804704c59d.png",
+      "sha256": "9b39d9e9b62c842a722b14eef4f50474f191c767adec0b251b6dd35fddb70f4c"
+    },
+    {
+      "bytes": 2064,
+      "path": "generation-receipt.json",
+      "sha256": "8e9764294275a88f632140a8db1d23a6e6bce6acce66c29d0738b3cda1d7beeb"
+    },
+    {
+      "bytes": 7009,
+      "path": "interpretation-response.json",
+      "sha256": "14bbae0362aff33bb15fb259c7a56cb5cec00783b2e7ce463364452b26b75c01"
+    },
+    {
+      "bytes": 2466,
+      "path": "private/C/generation.json",
+      "sha256": "18a3c689890da2b6dfe2e4b438bdad2770a20a74b9fe46e05b87cdfaad922862"
+    },
+    {
+      "bytes": 10620,
+      "path": "private/C/interpretation.json",
+      "sha256": "27c1bcba67eaa3279a078789a82f379ba76bd61f3b260fd70ad22138ae6e0e6c"
+    },
+    {
+      "bytes": 10496,
+      "path": "private/C/prompt.json",
+      "sha256": "e84db460caf19c6a8e9bc27fdc8c71d9c2b1e5b56a9a5067d116f72c3da24bbb"
+    },
+    {
+      "bytes": 2837,
+      "path": "private/awareness.json",
+      "sha256": "561a16b1aaa4da01b3cf3f63c8f73753f02fd6df1fec0ecac0bd4cd599d7ef4f"
+    },
+    {
+      "bytes": 5630,
+      "path": "private/completed-transcript.json",
+      "sha256": "e378b3e4843062c5f993d7e3919e2233fb28f2c9a06e1e9c10567fc20842c7cb"
+    },
+    {
+      "bytes": 33050,
+      "path": "private/events.jsonl",
+      "sha256": "fad163152add04a95880d27b876d8b4c557f113a03e2b6f4fd63c058bca5567a"
+    },
+    {
+      "bytes": 7594,
+      "path": "private/state.json",
+      "sha256": "03228f33c5237a810f5c1bd59bbeb69d262ddc1224eedd8e092e132756ff56b8"
+    },
+    {
+      "bytes": 1401,
+      "path": "private/worker-task-messages.json",
+      "sha256": "6d5fd3db66c405301c70d33f3c1cfd1248caa217fdb55e1a97608b2beba4947e"
+    },
+    {
+      "bytes": 1711,
+      "path": "prompt-response.json",
+      "sha256": "034613d51e15d25dd6a345fc55b47b3cef96118b4538d2e1cdf81758c3b690c7"
+    },
+    {
+      "bytes": 7826,
+      "path": "report.md",
+      "sha256": "7301cc1244cb6c7e6271ba4c0518345f01b25068333fe42cdcffa10e986138cf"
+    },
+    {
+      "bytes": 3008,
+      "path": "task-request.json",
+      "sha256": "c954a8c043f71cbd3b1c541db40abb247b29973de5598e3c4fc4e86605828b18"
+    }
+  ],
+  "mode": "subscription_tool_bridge",
+  "schema_version": 2,
+  "separate_paid_api_calls": 0,
+  "synthetic_task_responses": false
+}
