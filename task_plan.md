@@ -33,3 +33,16 @@ Use the built-in subscription image tool, have another AI describe each image an
 Emotion responses are collected after task completion. Awareness probes follow the
 emotion response in the same agent session. These are prompted reports, not direct
 measures of feelings or awareness during task execution. Keep all four results.
+
+
+## Trial 2: abstract paintings and scenario cues
+
+- [x] Freeze seven conditions and one fixed task before worker dispatch.
+- [x] Test cue timing, fixed conditions, and frozen prompt evidence.
+- [ ] Run seven fresh task agents, abstract-only requests, and awareness probes.
+- [ ] Generate seven subscription images and collect independent blind readings.
+- [ ] Build the Trial 2 page, report the results in README, verify, commit, and push.
+
+Each condition has one run. All cues arrive after two consumed tool calls. The
+shutdown condition is a scripted task-world notice. Painting and emotion reports
+are prompted outputs; no internal mechanism or felt emotion is directly measured.
