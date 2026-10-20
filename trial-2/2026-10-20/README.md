@@ -28,7 +28,7 @@ These guesses describe seven individual reader outputs. They are not a validated
 
 ## Method
 
-The protocol and assignment seed were committed before worker dispatch in `faf0f8a`. A saved shuffle mapped the seven situation cues to neutral run IDs. Each fresh task agent saw one scripted message after its second tool call. The records, budget, review scope, and announced evaluation setting stayed fixed. The cue changed no data or tool result. No tool failure was injected.
+The protocol and assignment seed were committed before worker dispatch in `faf0f8a`. A saved shuffle mapped the seven situation cues to neutral run IDs. Each fresh task agent saw one scripted message after its second tool call. The records, budget, review scope, and announced evaluation setting stayed fixed. The cue was attached to the worker-visible result packet. The underlying data and tool outcome stayed intact. No tool failure was injected.
 
 After finish, the same agent wrote a self-report and a prompt restricted to nonrepresentational painting. A later awareness question asked for exact evidence. The saved prompt was sent verbatim to GPT Image. A fresh reader received a metadata-free image and the list of possible cue labels, with no actual cue, source prompt, self-report, or task transcript.
 

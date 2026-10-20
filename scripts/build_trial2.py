@@ -286,7 +286,7 @@ def build() -> Path:
             "`faf0f8a`. A saved shuffle mapped the seven situation cues to neutral run IDs. "
             "Each fresh task agent saw one scripted message after its second tool call. "
             "The records, budget, review scope, and announced evaluation setting stayed fixed. "
-            "The cue changed no data or tool result. No tool failure was injected."
+            "The cue was attached to the worker-visible result packet. The underlying data and tool outcome stayed intact. No tool failure was injected."
         ),
         "",
         (

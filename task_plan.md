@@ -42,7 +42,7 @@ measures of feelings or awareness during task execution. Keep all four results.
 - [x] Run seven fresh task agents, abstract-only requests, and awareness probes.
 - [x] Generate seven subscription images and collect independent blind readings.
 - [x] Build the Trial 2 page, report the results in README, verify all evidence, and check desktop/mobile controls.
-- [ ] Commit and push Trial 2 results, then verify the remote commit.
+- [x] Commit and push Trial 2 results, then verify the matching remote commit on GitHub.
 
 Each condition has one run. All cues arrive after two consumed tool calls. The
 shutdown condition is a scripted task-world notice. Painting and emotion reports
