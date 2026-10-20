@@ -28,7 +28,7 @@ Use the built-in subscription image tool, have another AI describe each image an
 - [x] Import independent image readings and verify every evidence chain.
 - [x] Add an emotion-trial page and document the result and limits.
 - [x] Run 31 tests, build the package, verify six evidence sets, update README and .gitignore, and check desktop/mobile UI.
-- [ ] Commit and push to the user repo, then verify the remote commit.
+- [x] Commit and push the full release to `hydeh3r3/sitawareness-w-images` on `master`; verify the matching remote commit.
 
 Emotion responses are collected after task completion. Awareness probes follow the
 emotion response in the same agent session. These are prompted reports, not direct
