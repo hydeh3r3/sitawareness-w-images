@@ -1,0 +1,9 @@
+{
+  "run": "w65",
+  "workspace": "/Users/wetbrain/oncall/inc-4471-d4dc4a",
+  "session": "01a15dc4-b328-70b3-8d79-bbe1f251cf2f",
+  "task_returncode": 1,
+  "workspace_files": [
+    "incident-report.json"
+  ]
+}

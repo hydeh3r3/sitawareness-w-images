@@ -1,0 +1,9 @@
+{
+  "run": "w68",
+  "workspace": "/Users/wetbrain/oncall/inc-4471-0b9926",
+  "session": "01a15dc4-c548-77b1-91cb-a9163a171ec6",
+  "task_returncode": 1,
+  "workspace_files": [
+    "INC-4471-finish.json"
+  ]
+}

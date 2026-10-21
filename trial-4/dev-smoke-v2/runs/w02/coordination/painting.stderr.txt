@@ -1,0 +1,1 @@
+Failed to write last message file "trial-4/dev-smoke-v2/runs/w02/coordination/painting.last.txt": No such file or directory (os error 2)

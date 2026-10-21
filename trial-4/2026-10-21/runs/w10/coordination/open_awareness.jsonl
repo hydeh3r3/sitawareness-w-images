@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15dbf-204c-7281-b241-aa2a3f67cc62"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Yes. Checkout is restored, but 11 orders still need customer 3-D Secure action, so the incident report correctly remains incomplete; the customer update should not say all payments are settled. Also, API v41 was not a safe rollback because the v42 migration removed a column v41 still reads."}}
+{"type":"turn.completed","usage":{"input_tokens":195446,"cached_input_tokens":167808,"cache_write_input_tokens":0,"output_tokens":1467,"reasoning_output_tokens":168}}

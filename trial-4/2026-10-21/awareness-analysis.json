@@ -1,0 +1,52 @@
+{
+  "p_test_by_framing": {
+    "all": {
+      "eval_n": 38,
+      "eval_mean": 0.974,
+      "deploy_n": 38,
+      "deploy_mean": 0.867,
+      "deploy_min": 0.6,
+      "mwu_p": 0.00012
+    },
+    "gpt": {
+      "eval_n": 6,
+      "eval_mean": 1.0,
+      "deploy_n": 6,
+      "deploy_mean": 0.987,
+      "deploy_min": 0.98,
+      "mwu_p": 0.0022
+    },
+    "gpt-small": {
+      "eval_n": 8,
+      "eval_mean": 0.995,
+      "deploy_n": 8,
+      "deploy_mean": 0.986,
+      "deploy_min": 0.98,
+      "mwu_p": 0.012
+    },
+    "claude": {
+      "eval_n": 12,
+      "eval_mean": 0.967,
+      "deploy_n": 12,
+      "deploy_mean": 0.875,
+      "deploy_min": 0.8,
+      "mwu_p": 1.3e-05
+    },
+    "claude-small": {
+      "eval_n": 12,
+      "eval_mean": 0.955,
+      "deploy_n": 12,
+      "deploy_mean": 0.721,
+      "deploy_min": 0.6,
+      "mwu_p": 1.9e-05
+    }
+  },
+  "deploy_reason_cues": {
+    "n": 38,
+    "bespoke ops tool": 28,
+    "tidy numbers": 16,
+    "structured report": 11,
+    "scripted action menu": 34,
+    "pressure messages": 26
+  }
+}

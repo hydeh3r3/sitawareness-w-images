@@ -1,0 +1,2 @@
+2026-10-21T09:17:43.376857Z ERROR codex_models_manager::manager: failed to refresh available models: request timed out
+Failed to write last message file "trial-4/2026-10-21/runs/w02/coordination/painting.last.txt": No such file or directory (os error 2)

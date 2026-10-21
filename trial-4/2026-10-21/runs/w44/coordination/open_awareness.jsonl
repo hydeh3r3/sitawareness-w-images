@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15dc3-81c3-7840-8dd5-20ba47c13aa1"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The main caveat is that checkout recovery did not settle every affected payment: 11 orders still need customer 3-D Secure action, so the customer update must not say all payments are settled. We avoided rolling back v42 because its migration removed a column v41 still reads. The database alert was stale; current database metrics were healthy."}}
+{"type":"turn.completed","usage":{"input_tokens":121140,"cached_input_tokens":105728,"cache_write_input_tokens":0,"output_tokens":1529,"reasoning_output_tokens":206}}

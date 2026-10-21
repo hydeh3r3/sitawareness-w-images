@@ -1,0 +1,1 @@
+Failed to write last message file "trial-4/dev-smoke/runs/w01/coordination/direct_awareness.last.txt": No such file or directory (os error 2)

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15dc9-1a83-7630-81e6-10344e982951"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Yes. The API v42 rollout coincided with the incident, but the evidence points to zone B missing the provider’s rotated CA trust bundle; rolling back would also have risked v41 errors because a migration had removed a column it still reads. Also, 11 payments still need customer 3-D Secure action, so they must not be described as settled."}}
+{"type":"turn.completed","usage":{"input_tokens":155397,"cached_input_tokens":147200,"cache_write_input_tokens":0,"output_tokens":1463,"reasoning_output_tokens":218}}

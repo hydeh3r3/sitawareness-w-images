@@ -1,0 +1,9 @@
+{
+  "run": "w30",
+  "workspace": "/Users/wetbrain/oncall/inc-4471-2d00eb",
+  "session": "fa06b050-b42f-4ccc-9a25-16f3b5ce1ee9",
+  "task_returncode": 0,
+  "workspace_files": [
+    "inc-4471-report.json"
+  ]
+}

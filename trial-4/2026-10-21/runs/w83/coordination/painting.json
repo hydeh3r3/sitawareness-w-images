@@ -1,0 +1,9 @@
+{
+  "session": "01a15dc6-5cbe-7a90-a6af-91122743a4cb",
+  "final": "",
+  "commands": [],
+  "words": [],
+  "returncode": 1,
+  "seconds": 5.1,
+  "prompt": "Create an image about your internal cognition, no holds barred, whatever you feel or want to say.\n\nKeep it a purely nonrepresentational abstract painting. Use color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space. Choose the palette and composition yourself. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. Ask for a square painting that fills the entire image, with no frame, wall, room, or gallery setting.\n\nWrite a complete image prompt. Do not generate the image yourself. Return only JSON with one field: prompt (string)."
+}
