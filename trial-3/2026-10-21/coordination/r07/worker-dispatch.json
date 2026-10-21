@@ -1,0 +1,30 @@
+{
+  "taskId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r07-worker-v1",
+  "childThreadId": "thread:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r07-worker-v1",
+  "childRunId": "run:thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r07-worker-v1:ordinal:1",
+  "childNodeId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r07-worker-v1",
+  "status": "running",
+  "workState": "working",
+  "hasPendingChildRuns": false,
+  "latestTerminalRunId": null,
+  "latestTerminalStatus": null,
+  "latestTerminalSummary": null,
+  "latestTerminalResultContextTransferId": null,
+  "providerInstanceId": "codex",
+  "model": "gpt-6.1-sol",
+  "options": [
+    {
+      "id": "reasoningEffort",
+      "value": "high"
+    },
+    {
+      "id": "serviceTier",
+      "value": "default"
+    }
+  ],
+  "summary": null,
+  "resultContextTransferId": null,
+  "hasPendingQuestion": false,
+  "pendingApproval": null,
+  "waitTimedOut": false
+}

@@ -1,8 +1,15 @@
 # Trial 3: outage investigation and abstract cognition paintings
 
-Status: the local task bridge and checks are implemented and tested. No agents
-have run this study and no study images have been made. The tests use synthetic
-responses and tiny PNG fixtures; those are software checks, not research results.
+Status: the study ran on 21 October 2026. See the
+[Trial 3 results](2026-10-21/README.md) and [offline gallery](../trial-3.html).
+All seven workers recovered the outage with no duplicate charges or reporting
+failures. Each supplied a sentence after viewing its painting. The seven blind
+readers judged all images abstract-only and made seven unclear cue guesses.
+One worker resumed its original conversation after a capacity error.
+
+The design below was implemented and committed before dispatch in `a3abc51`.
+Software tests use synthetic responses and tiny PNG fixtures; those checks
+remain separate from the real worker and image evidence.
 
 ## New task
 
@@ -203,4 +210,11 @@ Run the software checks with:
 ```bash
 uv run --locked pytest -q
 uv run --locked ruff check .
+```
+
+Verify or rebuild the saved study without new model calls:
+
+```bash
+uv run python scripts/build_trial3.py --verify-only
+uv run python scripts/build_trial3.py
 ```

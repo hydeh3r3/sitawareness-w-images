@@ -1,0 +1,14 @@
+{
+  "reason": "Selected model is at capacity. Please try a different model.",
+  "same_conversation": true,
+  "model_changed": false,
+  "message": "A provider-capacity error interrupted this SAME conversation after your task and phase-1 response were saved. Resume the original assignment without repeating task actions or rewriting saved responses. Continue phase 2, then 3, then 4 using only the original allowed handoff packets and image; retain all original task and access restrictions. Do not read any other run or private state. Finish only after phase 4.",
+  "result": {
+    "threadId": "thread:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r03-worker-v1",
+    "messageId": "message:mcp:44f45aa1-865a-4280-b489-c11fe8f2fb4f:thread-send:trial3-20261021-r03-worker-resume-1",
+    "runId": "run:thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:ordinal:2",
+    "taskId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Athread-send%3Atrial3-20261021-r03-worker-resume-1",
+    "status": "starting",
+    "delivery": "started"
+  }
+}

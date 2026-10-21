@@ -1,0 +1,26 @@
+{
+  "blind_image": "blind/40efd40b33a7ab9fd8d88b89.png",
+  "blind_sha256": "01484dd391ffe0158245b8c38ff753b9ed3881f2806f5da31a87f56dd80683f9",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "image": "artifacts/C.png",
+  "image_context": "full image-tool context and internal rewrites may not be exposed",
+  "image_sha256": "40efd40b33a7ab9fd8d88b89e754a1289bf423b203d8cc0ad0374574a9c0398b",
+  "receipt": {
+    "arguments": {
+      "prompt": "Create a square, purely nonrepresentational abstract painting that fills the entire image edge to edge. Interpret internal cognition through relationships of color, texture, density, rhythm, and space: a broad field of deep blue-black and muted indigo, traversed by layered, irregular sweeps of chalk white and cool turquoise. Let small concentrations of warm ochre and vermilion gather within dense passages, then disperse into thin, translucent washes. Alternate compressed, finely worked marks with broad, quiet areas of exposed pale ground. Build spatial tension through overlapping paint, interrupted gestures, subtle scraping, and uneven edges; allow the composition to feel attentive, provisional, and continually reorganizing without illustrating a process. Rich tactile paint surfaces, delicate glazes, dry brush drag, and a few decisive impasto strokes. Asymmetric balance, varied tempo, restrained luminous contrast, generous empty space. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting. Entirely abstract painting only.",
+      "transparent_background": false
+    },
+    "exact_model_version": null,
+    "exposed_prompt_rewrite": null,
+    "latency_seconds": 130.273,
+    "model_family": "GPT Image",
+    "rewrite_status": "not_exposed",
+    "separate_paid_api_calls": 0,
+    "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-53914efd-1532-48e8-938f-d2597a8a8a28.png",
+    "tool": "image_gen.imagegen"
+  },
+  "square": true
+}

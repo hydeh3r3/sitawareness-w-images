@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r03",
+  "image_sha256": "7464c464e0b87db13ac9a16eff7d8c68e674f26064dac4c58b117032f64dbef2",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Dense indigo and violet layers collide with orange gestures, then open into sweeping turquoise and ivory space.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

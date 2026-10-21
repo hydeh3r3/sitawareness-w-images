@@ -1,0 +1,21 @@
+{
+  "all_images_loaded": true,
+  "all_seven_linked_panels_match": true,
+  "browser_console_errors": [],
+  "creator_sentence_format": "all seven manually checked; one sentence each; exact raw responses retained",
+  "desktop_width": 1440,
+  "engine_and_bridge_unchanged_since_registration": true,
+  "inline_preview_console_errors": [],
+  "inline_preview_groups": 2,
+  "mobile_scroll_width": 390,
+  "mobile_width": 390,
+  "neutral_comparison_works": true,
+  "pytest_passed": 51,
+  "reader_tasks_complete": 7,
+  "ruff_passed": true,
+  "same_conversation_resumptions": 1,
+  "separate_paid_api_calls": 0,
+  "source_context_hidden_by_default": true,
+  "worker_conversations_complete": 7,
+  "zoom_dialog_works": true
+}

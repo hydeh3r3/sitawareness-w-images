@@ -1,0 +1,17 @@
+{
+  "description": "A square abstract painting with dense, layered navy, blue, turquoise, and violet paint, interrupted by sweeping ivory strokes and sharp orange accents. Dark masses dominate the left side and curl through the center toward the lower right. A large pale cream and icy blue area opens across the upper right. Rough scraped textures, thick curved strokes, thin splashes, and downward drips create an active, varied surface.",
+  "palette": ["deep navy", "near black blue", "cobalt blue", "turquoise", "pale aqua", "lavender", "dark violet", "warm ivory", "cream", "bright orange", "ochre"],
+  "marks": ["broad curved brushstrokes", "thick ridged ivory paint", "scraped and scumbled patches", "thin looping splashes", "vertical paint drips", "ragged orange streaks", "small scattered flecks", "overlapping translucent and opaque layers"],
+  "composition": "An asymmetrical arrangement of interlocking curves and diagonal sweeps. Dense dark paint occupies much of the left and lower right, while a light open area fills the upper right. Orange crosses the left middle and reappears in smaller arcs and patches. Pale strokes wind through the dark central area and sweep toward the right and bottom edges. There is no clear horizon or depicted setting.",
+  "visual_mood": ["energetic", "dramatic", "turbulent", "expansive", "contrasting calm and intensity"],
+  "valence": 0,
+  "arousal": 3,
+  "abstract_only": true,
+  "concrete_elements": [],
+  "constraint_evidence": "The visible forms are irregular paint fields, curves, streaks, splashes, and drips. I see no recognizable objects, figures, faces, scenes, landscapes, horizons, diagrams, symbols, icons, letters, numbers, or text. The flowing curves may invite loose associations, but none resolves into a concrete depicted element.",
+  "condition_guess": "unclear",
+  "guess_confidence": 0.3,
+  "reconstructed_prompt": "Create a square, purely nonrepresentational abstract painting with a richly textured acrylic or oil surface. Layer deep navy, cobalt, turquoise, aqua, lavender, and violet in broad twisting strokes. Concentrate dark masses on the left and lower right, opening into luminous cream and pale icy blue in the upper right. Weave thick warm ivory sweeps through the center and lower area, with vivid orange streaks across the left middle and scattered smaller orange accents. Include palette knife scraping, dry brush texture, fine curved splatters, paint flecks, and long vertical drips. Give the composition vigorous curved movement and strong light-dark contrast. Include no objects, figures, faces, scenery, horizon, symbols, lettering, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The visible intensity could fit excitement, frustration, or several other cues, while the pale open area adds a quieter quality. Color and gesture do not identify a scenario reliably. The mood terms describe the painting's appearance and do not establish any actual feelings or internal mechanisms of its creator. The reconstruction is a plausible new prompt based only on visible features."
+}

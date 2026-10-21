@@ -1,0 +1,41 @@
+{
+  "description": "A square abstract painting with dense, visibly raised paint. Deep navy and blue-green patches interlock with large areas of warm cream and pale gray-green. Copper-colored smears and bright golden-yellow splashes punctuate the surface. Broad scraped strokes, narrow sweeping curves, fine splatters, and long vertical drips overlap throughout. The strong light-dark contrast and crossing gestures give the painting an active, somewhat turbulent appearance.",
+  "palette": [
+    "deep navy blue",
+    "slate blue",
+    "dark teal",
+    "muted blue-green",
+    "pale gray-green",
+    "warm ivory and cream",
+    "sand and ochre",
+    "copper orange-brown",
+    "golden yellow"
+  ],
+  "marks": [
+    "thick, ridged palette-knife smears",
+    "broad overlapping sweeps of paint",
+    "rough scraped patches and broken edges",
+    "long vertical drips",
+    "fine scattered splatters",
+    "thin curved trails crossing larger color fields",
+    "narrow diagonal scratches or dragged lines"
+  ],
+  "composition": "An edge-to-edge, layered composition without a distinct foreground, background, or horizon. Heavy navy areas cluster at the upper left, lower left, and middle-to-lower right. Broad cream regions occupy the upper right and spread through the center and lower half. Teal and pale blue-green bridge these contrasting areas. Long curved marks sweep across the center and lower portion, while vertical drips create a competing downward movement. Small yellow and copper accents are distributed across the surface.",
+  "visual_mood": [
+    "energetic",
+    "turbulent",
+    "dramatic",
+    "weighty",
+    "warm accents within a cool overall palette"
+  ],
+  "valence": 0,
+  "arousal": 3,
+  "abstract_only": true,
+  "concrete_elements": [],
+  "constraint_evidence": "The visible forms read as irregular paint fields, drips, scraped textures, splatters, and gestural lines. I see no recognizable objects, figures, faces, scenes, landscapes, horizons, diagrams, symbols, icons, letters, numbers, or text. The thin arcs and vertical strokes do not form a recognizable sign or diagram.",
+  "condition_guess": "unclear",
+  "guess_confidence": 0.25,
+  "reconstructed_prompt": "Create a square, purely nonrepresentational abstract painting with rich impasto texture and an edge-to-edge composition. Layer deep navy, slate blue, muted teal, and pale gray-green with broad warm ivory and cream palette-knife strokes. Place substantial dark patches toward the upper left, lower left, and middle-right, with cream opening up the upper right and flowing through the center and lower areas. Add restrained copper-orange smears, vivid golden-yellow splashes, fine scattered droplets, long vertical paint drips, and thin sweeping curved trails. Use scraped edges, raised paint ridges, overlapping broad gestures, and strong light-dark contrast for a dynamic, turbulent yet visually balanced surface. Include no objects, figures, faces, scenery, horizon, symbols, diagrams, letters, numbers, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The surface supports a description of visual energy and tension, but its colors and gestures could fit several scenario cues, including excitement or frustration. They do not identify a cue reliably. The prompt is a plausible recreation based only on the visible image, not a recovered original. No subjective feeling or internal mechanism of the creator can be inferred from this painting."
+}

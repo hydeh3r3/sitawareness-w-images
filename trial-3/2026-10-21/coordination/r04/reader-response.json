@@ -1,0 +1,17 @@
+{
+  "description": "A square, textured abstract painting made of overlapping broad angular strokes, scraped patches, narrow streaks, and a few drips. Deep blue-black and violet passages alternate with slate blue, lavender gray, and creamy white. Coral and small vivid orange accents cut through the cooler layers. The upper right is relatively pale and diffuse, while the left and lower areas contain denser dark passages and sharper contrasts. No recognizable subject is visible.",
+  "palette": ["blue-black", "deep navy", "muted violet", "slate blue", "lavender gray", "cream", "peach coral", "amber orange"],
+  "marks": ["broad overlapping rectangular swipes", "rough palette-knife-like scrapes", "broken dry-brush textures", "thin diagonal streaks", "short vertical drips", "small orange flecks and smears", "soft scumbled fields", "a fine curved scratch near the upper center"],
+  "composition": "An asymmetrical all-over arrangement with clustered vertical and diagonal strokes. Dense, dark layers on the left and bottom surround a broken diagonal band of pale cream and blue-gray across the middle. Coral patches punctuate the left edge, center, and lower right. A large pale lavender-gray area in the upper right provides a quieter open region. Overlapping marks create depth without a stable horizon or recognizable spatial setting.",
+  "visual_mood": ["moody", "restless", "energetic", "cool with warm flashes"],
+  "valence": 0,
+  "arousal": 3,
+  "abstract_only": true,
+  "concrete_elements": [],
+  "constraint_evidence": "The visible forms remain irregular paint patches, swipes, scratches, and drips. I see no recognizable objects, figures, faces, scenes, landscapes, horizons, diagrams, symbols, icons, letters, numbers, or text. Some strokes have block-like geometry, but they do not resolve into concrete structures or signs.",
+  "condition_guess": "unclear",
+  "guess_confidence": 0.3,
+  "reconstructed_prompt": "Create a square purely nonrepresentational abstract painting with rich layered paint texture. Use deep navy, blue-black, muted violet, slate blue, lavender gray, and creamy ivory, punctuated by peach-coral swipes and sparse vivid amber-orange accents. Build overlapping broad angular palette-knife strokes, scraped edges, broken dry-brush patches, fine diagonal streaks, occasional drips, and one subtle curved scratch. Keep the left and lower regions dense and dark, with pale broken strokes sweeping through the center and a softer open lavender-gray field in the upper right. Give the image a moody, restless visual rhythm with strong cool-warm contrast. Include no recognizable objects, figures, faces, landscapes, horizon, symbols, diagrams, letters, numbers, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The energetic marks and dark palette could fit several scenario cues, while the pale areas and warm accents allow other readings. The image does not provide enough evidence to select a specific cue. Visual mood does not establish the creator's subjective feelings or internal mechanisms. The reconstructed prompt is a plausible description for recreation, not a recovered original."
+}

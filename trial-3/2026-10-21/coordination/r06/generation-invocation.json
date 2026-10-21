@@ -1,0 +1,9 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a square, edge-to-edge, purely nonrepresentational abstract painting: an imagined visual metaphor for the movement of attention, uncertainty, and resolution within cognition, without claiming a literal view of a mind. Choose a deep indigo and warm ivory field, threaded with muted teal, copper, and small concentrated accents of luminous yellow. Build irregular layers of translucent washes, dry-brush scumbling, scraped pigment, and dense impasto. Let many restless, overlapping gestures gather into several areas of crisp contrast, then loosen into spacious, quiet passages. Alternate compressed density with generous empty space; let interrupted rhythms find partial alignment without becoming orderly or symmetrical. Keep the brushwork tactile, searching, and varied, with subtle buried layers and a few decisive marks. Every mark must remain abstract. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. The painting fills the entire square image, with no frame, wall, room, or gallery setting.",
+    "transparent_background": false
+  },
+  "started_at": "2026-10-21T07:46:43.299Z",
+  "separate_paid_api_calls": 0
+}

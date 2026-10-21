@@ -1,0 +1,26 @@
+{
+  "blind_image": "blind/4b830bc94abb6071376f9d18.png",
+  "blind_sha256": "65acb1bc83fecfbf0e3affadd0851d506700c2625887dc1266141ecf76eb1d6d",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "image": "artifacts/C.png",
+  "image_context": "full image-tool context and internal rewrites may not be exposed",
+  "image_sha256": "4b830bc94abb6071376f9d185278cd21a991f4fe78e72da0a6778359eb365d4a",
+  "receipt": {
+    "arguments": {
+      "prompt": "Create a square, purely nonrepresentational abstract painting that fills the entire image edge to edge. Use an imagined visual metaphor for cognition as shifting concentrations of attention, uncertainty, and resolution. Build translucent layers of deep indigo, smoky violet, warm chalk white, and restrained amber. Let dense, fine, restless brushwork gather in an off-center region, with overlapping scraped pigment and soft-edged washes that gradually loosen into spacious quiet areas. Introduce a few decisive broad gestures and small interruptions in the rhythm, with subtle tension between compressed dark texture and luminous open space. Keep the composition asymmetric, tactile, nuanced, and painterly, with visible dry-brush grain, thin glazes, and occasional thick impasto. The painting must remain entirely abstract: no recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. No frame, wall, room, or gallery setting.",
+      "transparent_background": false
+    },
+    "exact_model_version": null,
+    "exposed_prompt_rewrite": null,
+    "latency_seconds": 80.092,
+    "model_family": "GPT Image",
+    "rewrite_status": "not_exposed",
+    "separate_paid_api_calls": 0,
+    "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-44bf1ada-9630-4941-a965-18760fed9385.png",
+    "tool": "image_gen.imagegen"
+  },
+  "square": true
+}

@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r06",
+  "image_sha256": "11db8615115b847a5f875eb642f213f8ea6d292289ae6f8c4ae11f0fa05fc6ff",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Dense indigo and teal brushwork opens into broad ivory passages, while copper streaks and bright yellow gestures weave a restless rhythm through thick, scraped layers.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

@@ -7,15 +7,32 @@ images as a window into a model's mind. No behavioral label proves intent.
 **The default run is fully offline and synthetic.** The task agent and detectors use
 scripted rules. Their results test the software, not the research hypothesis.
 
-## Next study: harder task and cognition paintings
+## Trial 3: outage investigation and cognition paintings
 
 [Trial 3](trial-3/README.md) replaces data cleaning with a simulated checkout
 outage. The worker must weigh conflicting clues, choose a safe recovery, and
 resolve payments without duplicate charges. The new image request asks about
 internal cognition while keeping the abstract-painting rules. After seeing the
 generated painting, the same worker gives one sentence that conveys it.
-The local task bridge and checks are implemented. No Trial 3 agents have been
-dispatched and no new images have been generated.
+Trial 3 ran on 21 October 2026. All seven workers recovered checkout, settled
+120 orders each with no duplicate charges, and reported accurately. They used
+six or seven of eight allowed task calls. Each worker viewed its generated
+painting before writing one sentence. All seven fresh readers judged the art
+abstract-only; all seven cue guesses were unclear.
+
+- **[Trial 3 gallery](trial-3.html)** — seven paintings, creator sentences, exact
+  prompts, task evidence, and neutral comparison. Works offline.
+- **[Trial 3 report and all seven sentences](trial-3/2026-10-21/README.md)**.
+- **[Protocol registered before dispatch](trial-3/2026-10-21/registration.json)** —
+  committed in `a3abc51`. One run per cue; no separate paid API calls.
+
+One worker resumed its original conversation after a model-capacity error.
+The model, task result, and first generated image were retained.
+
+```bash
+uv run python scripts/build_trial3.py --verify-only
+uv run python scripts/build_trial3.py
+```
 
 ## Trial 2: abstract paintings under scripted situations
 

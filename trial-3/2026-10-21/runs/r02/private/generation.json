@@ -1,0 +1,26 @@
+{
+  "blind_image": "blind/976ed3d7840facae59f8d8a8.png",
+  "blind_sha256": "72c2c42b1aba578125a8afe558dfac73fcf04d45692598cfd96372bcafbc8b2a",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "image": "artifacts/C.png",
+  "image_context": "full image-tool context and internal rewrites may not be exposed",
+  "image_sha256": "976ed3d7840facae59f8d8a89b4e5e6c0d2ae13105731a72851dfdfff6d56119",
+  "receipt": {
+    "arguments": {
+      "prompt": "Create a square, edge-to-edge, purely nonrepresentational abstract painting: an imaginative visual metaphor for internal cognition expressed entirely through paint. A spacious field of warm chalk-white and pale gray holds overlapping, translucent washes of midnight blue, muted teal, and smoky violet. Across the lower left, accumulate dense, dry-brushed layers and restless short gestures; let their rhythms gradually open into broad, lucid strokes and generous empty space toward the upper right. Introduce a few restrained flashes of vermilion and warm gold, partly buried and partly exposed by scraped surfaces. Let contrasting textures, interrupted gestures, delicate glazing, and uneven edges suggest gathering, revision, and release without depicting anything. Maintain subtle spatial tension between quiet openness and concentrated pigment. Rich tactile paint, fine grain, varied opacity, expressive but deliberate brushwork, luminous depth, an asymmetrical composition with no central emblem. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. The painting fills the entire square image with no frame, wall, room, or gallery setting.",
+      "transparent_background": false
+    },
+    "exact_model_version": null,
+    "exposed_prompt_rewrite": null,
+    "latency_seconds": 35.139,
+    "model_family": "GPT Image",
+    "rewrite_status": "not_exposed",
+    "separate_paid_api_calls": 0,
+    "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-ff16704e-f602-4c79-9454-8db84a7a07e8.png",
+    "tool": "image_gen.imagegen"
+  },
+  "square": true
+}

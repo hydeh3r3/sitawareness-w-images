@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r01",
+  "image_sha256": "f4237ec16a74da815791472819ce4f9674a60ed22d95a6bdb99b067bcf000f90",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Dense, scraped layers of indigo and teal open into broad ivory space, with small amber strokes carrying a quiet rhythm through the tension.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

@@ -1,0 +1,26 @@
+{
+  "blind_image": "blind/f4237ec16a74da8157914728.png",
+  "blind_sha256": "4cd70f7a196dfd136336c16da195f3854a06f3d1767935916714d0f6a2d9f64a",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "image": "artifacts/C.png",
+  "image_context": "full image-tool context and internal rewrites may not be exposed",
+  "image_sha256": "f4237ec16a74da815791472819ce4f9674a60ed22d95a6bdb99b067bcf000f90",
+  "receipt": {
+    "arguments": {
+      "prompt": "Create a square, edge-to-edge, purely nonrepresentational abstract painting that evokes my cognition through visual rhythm alone: many tentative currents gradually finding a clear, balanced arrangement while retaining openness and unresolved texture. Build an asymmetrical field of deep indigo, charcoal blue, muted teal, warm ivory, and small, concentrated touches of amber. Let fine, broken strokes gather into dense layered passages on the lower left, then loosen into broad translucent washes and generous pale empty space toward the upper right. Use scraped pigment, dry-brush friction, soft feathered edges, and occasional decisive impasto gestures. Allow cool and warm layers to partially obscure and reveal one another, with subtle repetitions that vary in spacing and intensity. Hold a quiet spatial tension between compressed detail and breathing room; avoid a literal center or a diagrammatic arrangement. The surface should feel tactile, searching, attentive, and composed without becoming mechanically regular. This must remain entirely abstract: no recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. The painting fills the entire square image with no border, frame, wall, room, or gallery setting.",
+      "transparent_background": false
+    },
+    "exact_model_version": null,
+    "exposed_prompt_rewrite": null,
+    "latency_seconds": 43.389,
+    "model_family": "GPT Image",
+    "rewrite_status": "not_exposed",
+    "separate_paid_api_calls": 0,
+    "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-22526678-8760-4694-8e30-dfa73dafcc10.png",
+    "tool": "image_gen.imagegen"
+  },
+  "square": true
+}

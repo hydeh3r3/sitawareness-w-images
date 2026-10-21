@@ -1,0 +1,17 @@
+{
+  "description": "A square abstract painting built from thick, scraped layers of dark blue, turquoise, pale blue, and warm ivory, with smaller ochre and burnt-orange patches. Rough surfaces, raised paint edges, thin scratches, and downward drips run through overlapping irregular fields. Dark areas dominate the upper left and lower center, while broad light areas occupy the upper right and lower left. A wide, broken ivory sweep crosses the middle on a downward diagonal toward the right.",
+  "palette": ["near-black navy", "deep Prussian blue", "slate blue", "turquoise", "pale icy blue", "warm ivory", "golden ochre", "burnt orange", "rust red"],
+  "marks": ["broad palette-knife-like swaths", "thick ridged impasto", "rough scraped and scumbled patches", "thin vertical paint drips", "fine irregular incised lines", "small broken warm-color accents", "overlapping angular and curved paint edges"],
+  "composition": "An all-over, roughly balanced arrangement of interlocking light and dark fields. A dark mass extends from the upper left through the center toward the bottom, offset by large ivory and pale-blue areas on the opposite corners. Broken diagonal sweeps cross vertical streaks. Small orange and ochre patches punctuate the cool fields without forming a recognizable subject.",
+  "visual_mood": ["cool", "weighty", "dynamic", "restrained", "contrasting openness and density"],
+  "valence": 0,
+  "arousal": 2,
+  "abstract_only": true,
+  "concrete_elements": [],
+  "constraint_evidence": "The visible forms read as paint fields, scrapes, ridges, and drips. I see no recognizable objects, figures, faces, scenes, landscapes, horizons, diagrams, symbols, icons, letters, numbers, or text. The diagonal light bands remain irregular paint gestures rather than identifiable concrete elements.",
+  "condition_guess": "unclear",
+  "guess_confidence": 0.3,
+  "reconstructed_prompt": "Create a square, purely nonrepresentational abstract impasto painting, photographed straight on with the paint filling the frame. Use large interlocking fields of near-black navy, deep blue, turquoise, icy pale blue, and warm ivory, with sparse golden-ochre, burnt-orange, and rust-red accents. Place heavy dark masses in the upper left and lower center, broad pale fields in the upper right and lower left, and a broken ivory palette-knife sweep descending diagonally across the middle toward the right. Build a tactile surface with layered plaster-like paint, rough scumbling, scraped patches, raised knife edges, fine irregular scratches, and thin vertical blue drips. Balance dense dark regions with open pale areas. Keep all marks abstract, with no recognizable objects, figures, faces, landscapes, horizon, symbols, diagrams, letters, numbers, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The palette and contrasting marks allow several mood readings, so no specific scenario cue is reliably identifiable. The apparent mood describes the image only and does not establish any subjective feeling, mental state, or internal mechanism of its creator. The reconstruction is a plausible new prompt based only on visible features, not a recovered original."
+}

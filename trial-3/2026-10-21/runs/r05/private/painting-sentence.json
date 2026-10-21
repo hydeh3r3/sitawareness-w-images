@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r05",
+  "image_sha256": "4b830bc94abb6071376f9d185278cd21a991f4fe78e72da0a6778359eb365d4a",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Dense indigo and violet textures give way to sweeping ivory space, with scattered amber marks threading through the layered brushwork.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

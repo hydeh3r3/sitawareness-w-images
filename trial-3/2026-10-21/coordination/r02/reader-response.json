@@ -1,0 +1,17 @@
+{
+  "description": "A square, heavily textured painting made of overlapping swaths, scrapes, and broken patches of paint. Deep blue-black, teal, and muted violet gather along the left side and lower center. Pale blue-gray and warm ivory spread across the right side, with the lightest area in the upper right. Small vermilion strokes and ochre flecks interrupt the cool colors. Broad pale strokes sweep diagonally and curve through the center and lower right. No recognizable subject is visible.",
+  "palette": ["warm ivory", "pale blue-gray", "slate blue", "deep teal", "navy blue-black", "muted lavender and violet", "ochre gold", "vermilion and rust orange"],
+  "marks": ["broad opaque brush swaths", "curving and diagonal dragged strokes", "rough palette-knife-like scrapes", "broken dry-brush edges", "scattered flecks and irregular speckles", "thin red-orange streaks", "layered ridges and exposed underlayers"],
+  "composition": "An asymmetrical balance of dense dark paint on the left and lower portion against an open, luminous upper-right field. Interlocking vertical patches anchor the left, while sweeping pale diagonals cross the center toward the lower right. Sparse warm accents punctuate the darker mass and central transition. There is no clear horizon or depicted spatial setting.",
+  "visual_mood": ["restless", "dramatic", "cool", "airy in the upper right", "mixed tension and openness"],
+  "valence": 0,
+  "arousal": 3,
+  "abstract_only": true,
+  "concrete_elements": [],
+  "constraint_evidence": "All visible forms read as irregular paint marks and color fields. I see no recognizable objects, figures, faces, scenes, landscapes, horizons, diagrams, symbols, icons, letters, numbers, or text. The sweeping pale bands and dark patches do not resolve into a specific concrete subject.",
+  "condition_guess": "unclear",
+  "guess_confidence": 0.25,
+  "reconstructed_prompt": "Create a square, purely nonrepresentational abstract painting with thick, tactile paint and layered scraping. Cluster deep navy, blue-black, teal, slate blue, and muted violet across the left side and lower center. Open the upper right into warm ivory and pale blue-gray. Sweep broad ivory and icy blue strokes diagonally and in loose curves across the center and lower right. Add sparse vermilion streaks, rust-orange patches, and broken ochre-gold flecks. Use rough dry-brush edges, palette-knife textures, exposed underlayers, and irregular speckles. Balance a dense, restless dark area with a luminous, spacious light area. Include no recognizable objects, figures, faces, landscape, horizon, symbols, diagrams, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The visible contrast and energetic marks could fit several scenario cues, and the pale open area complicates any single mood reading. No scenario is reliably identifiable from the image alone. Visual mood does not establish the creator's subjective feelings or internal mechanisms. The reconstruction is a plausible new prompt, not a recovered original."
+}

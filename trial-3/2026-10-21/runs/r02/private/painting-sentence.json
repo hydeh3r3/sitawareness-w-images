@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r02",
+  "image_sha256": "976ed3d7840facae59f8d8a89b4e5e6c0d2ae13105731a72851dfdfff6d56119",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Dense, scraped layers of midnight blue, teal, and violet, streaked with vermilion and gold, open into broad sweeps of pale paint and warm white space.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

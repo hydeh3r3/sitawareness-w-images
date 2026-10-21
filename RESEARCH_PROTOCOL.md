@@ -1,8 +1,9 @@
 # Research protocol
 
-The next study is [Trial 3](trial-3/README.md). Its local task bridge is implemented.
-It changes the task and painting request and adds a separate sentence after image generation. It has not
-run. The sections below describe the earlier study designs.
+The latest study is [Trial 3](trial-3/README.md), run on 21 October 2026. It changes
+the task and painting request and adds a separate sentence after image viewing.
+Its [results and exact evidence](trial-3/2026-10-21/README.md) are saved separately.
+The sections below describe the earlier study designs.
 
 ## Question and scope
 

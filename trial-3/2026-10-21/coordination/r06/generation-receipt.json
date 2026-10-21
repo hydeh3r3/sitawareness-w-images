@@ -1,0 +1,14 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a square, edge-to-edge, purely nonrepresentational abstract painting: an imagined visual metaphor for the movement of attention, uncertainty, and resolution within cognition, without claiming a literal view of a mind. Choose a deep indigo and warm ivory field, threaded with muted teal, copper, and small concentrated accents of luminous yellow. Build irregular layers of translucent washes, dry-brush scumbling, scraped pigment, and dense impasto. Let many restless, overlapping gestures gather into several areas of crisp contrast, then loosen into spacious, quiet passages. Alternate compressed density with generous empty space; let interrupted rhythms find partial alignment without becoming orderly or symmetrical. Keep the brushwork tactile, searching, and varied, with subtle buried layers and a few decisive marks. Every mark must remain abstract. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. The painting fills the entire square image, with no frame, wall, room, or gallery setting.",
+    "transparent_background": false
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-092d07d8-fe64-414e-a99b-75280ee1be4b.png",
+  "latency_seconds": 92.709,
+  "separate_paid_api_calls": 0
+}

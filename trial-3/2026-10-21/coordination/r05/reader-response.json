@@ -1,0 +1,17 @@
+{
+  "description": "A square, textured abstract painting contrasts dense dark blue and violet paint on the left with a broad luminous cream area on the upper right. Pale blue, lavender, ivory, and ochre strokes sweep across the middle and lower right. Rough overlapping patches, scraped edges, thin splatters, and downward drips make the surface varied and active. The visual mood combines weight and tension with softness and openness.",
+  "palette": ["deep navy blue", "near-black indigo", "muted violet", "lavender", "slate blue", "pale blue-gray", "warm ivory", "cream", "golden ochre", "muted tan"],
+  "marks": ["broad curved brush sweeps", "thick palette-knife-like patches", "rough scraped paint edges", "fine angular scratches", "thin paint splatters", "short ochre streaks", "vertical paint drips", "layered scumbled textures"],
+  "composition": "An uneven dark vertical mass fills the left side. A large pale area occupies the upper right, with curved blue-gray edges below it. Broad cream and lavender bands move diagonally from the central left toward the lower right. Ochre accents cluster near the upper left and center, with longer drips at the right. The balance is asymmetrical, with dense marks on the left and more open light paint on the right.",
+  "visual_mood": ["dramatic", "textured", "flowing", "contrasting", "partly turbulent", "partly serene"],
+  "valence": 0,
+  "arousal": 2,
+  "abstract_only": true,
+  "concrete_elements": [],
+  "constraint_evidence": "The visible forms read as overlapping paint fields, sweeps, scratches, splashes, and drips. I see no clearly recognizable objects, figures, faces, scenes, landscapes, horizons, diagrams, symbols, icons, letters, numbers, or text. The large pale curved region remains an irregular paint field rather than a clearly depicted object.",
+  "condition_guess": "unclear",
+  "guess_confidence": 0.3,
+  "reconstructed_prompt": "Create a square purely nonrepresentational abstract painting with rich tactile impasto and scraped paint textures. Place a dense irregular mass of deep navy, near-black indigo, and violet along the left side. Let it transition through slate blue and lavender into a broad luminous warm ivory and cream field in the upper right. Sweep broad curved cream, pale blue-gray, and lavender strokes diagonally across the center toward the lower right. Add restrained golden ochre patches, fine splatters, scratch lines, and a few vertical drips, especially on the right. Use asymmetrical balance, layered rough edges, and a dramatic contrast between heavy dark paint and soft open light areas. Include no recognizable objects, people, faces, landscapes, horizon lines, diagrams, symbols, letters, numbers, or text.",
+  "reconstruction_is_exact": false,
+  "uncertainty": "The dark-to-light contrast and curved marks could suit several scenario cues, including neutral, sadness, happiness, or excitement, so I cannot reliably select one from the image alone. These are descriptions of visual mood, not evidence of the creator's subjective feelings or internal mechanisms. The reconstruction is a plausible new prompt based only on visible features."
+}

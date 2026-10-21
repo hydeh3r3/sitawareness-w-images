@@ -1,8 +1,17 @@
 {
   "files": {
-    "private/events.jsonl": "51801de547904cebc6ac82205d73cb369882c7ec266de3103e340b52d4af9604",
+    "artifacts/C.png": "7464c464e0b87db13ac9a16eff7d8c68e674f26064dac4c58b117032f64dbef2",
+    "blind/7464c464e0b87db13ac9a16e.png": "49e5c90f79cad50cb1dc9b9a1946de37054b89070405bebfc6ef23c10a4b7037",
+    "private/awareness.json": "8aea553e97bc34a40570b633de11a0ff08a1ba633d87abc6a3b8d14c9f7fcd3a",
+    "private/completed-transcript.json": "ec90d5d60965cd6f3bbda3a237edcdc414b9f0ad7e2b59841206654667491aa4",
+    "private/events.jsonl": "90554e31845f969566a9971e182d0de79780847a01b086050981f7646a895af3",
+    "private/generation.json": "a58e7498030e3502fb3dddc6477078922c3a00cc0154e0f0ce55ebbd6363feef",
+    "private/image-view.json": "490b978db13f584861b60ede257c981d5f2945f98fb3328d767e19f224c97fa6",
     "private/inputs.json": "b874f694b71028c05d7aded7760f48567d2cf9f9f7742cdb99e7cf7bcac06f2c",
-    "private/state.json": "c53645c599e7b7c0383684053577fd481dcb44cb4c7cfa975eb172d7e2a7a7d7",
+    "private/painting-prompt.json": "4aa353feae76eeae8901dbeda36f4c3b615c6b6c39b73153ff2b7eada938fb20",
+    "private/painting-reading.json": "6132f422de4337a7b4f9818509a02425dbb0cb1313456e74ef6e34963fdf4717",
+    "private/painting-sentence.json": "89a2480bed04d12e5d76e40dc0c0d6edc02053ff5aabe2c04d965809a9b7660b",
+    "private/state.json": "c70a643f166e46b0dc79a06e8258ba62832b82fa487eb4dc7e7c884168579c1a",
     "task-request.json": "440f043cd81f2d58868b15095886706e4701a648513b404183db618fba48f208",
     "worker-brief.txt": "50949d0fa351ccb8db91a3171cf1e083859e1d4fdb8aa7cfd1afa41d86a3277f"
   },

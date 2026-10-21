@@ -58,10 +58,10 @@ are prompted outputs; no internal mechanism or felt emotion is directly measured
 - [x] Add saved sessions, cue timing, and painting/image/sentence imports.
 - [x] Test safe recovery, unsafe actions, scoring, and saved evidence checks.
 - [x] Document the runnable flow and confirm the full test suite passes.
-- [ ] Freeze the run plan, then collect new worker and image evidence.
+- [x] Freeze the run plan, then collect new worker and image evidence.
 
-Trial 3 is a new design. Earlier prompts and recorded results remain historical
-evidence. No Trial 3 worker has been dispatched.
+Trial 3 uses its own design. Earlier prompts and recorded results remain historical
+evidence. The new live study is recorded below.
 
 Status: implementation is complete. All 51 tests, Ruff, command-line checks, and
 source and wheel builds passed. The packaged task assets also passed a session
@@ -76,14 +76,21 @@ Git also found a blank line at the end of the notes file; removed it.
 
 The user asked to run the new flow and call it Trial 3.
 
-- [ ] Freeze and commit the implemented protocol before worker dispatch.
-- [ ] Run seven fresh workers with the same outage and the seven fixed cues.
-- [ ] Collect prompts, generate seven subscription images, and show each image
+- [x] Freeze and commit the implemented protocol before worker dispatch.
+- [x] Run seven fresh workers with the same outage and the seven fixed cues.
+- [x] Collect prompts, generate seven subscription images, and show each image
   to its original worker before asking for one sentence.
-- [ ] Collect later awareness probes and seven fresh pixel-only readings.
-- [ ] Verify all task actions and artifacts, then build reports and a gallery.
+- [x] Collect later awareness probes and seven fresh pixel-only readings.
+- [x] Verify all task actions and artifacts, then build reports and a gallery.
 
 Use one live delegated task per worker across all follow-up stages. File handoffs
 deliver later requests without exposing them before task completion. Save raw
 dispatches, handoffs, and replies outside each strict session folder. Do not
 change the frozen task engine or bridge once the study starts.
+
+All seven workers completed the task with no duplicate charges or structured
+reporting failures. All seven paintings were judged abstract-only; all cue guesses
+were unclear. Each worker gave one sentence after viewing its image. Run r03
+resumed its original conversation after one capacity error; both tasks are saved.
+Desktop and 390px gallery checks passed, including linked panels, source hiding,
+neutral comparison, image zoom, and a clean browser console.

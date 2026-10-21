@@ -1,0 +1,30 @@
+{
+  "taskId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r03-worker-v1",
+  "childThreadId": "thread:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r03-worker-v1",
+  "childRunId": "run:thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:ordinal:1",
+  "childNodeId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r03-worker-v1",
+  "status": "failed",
+  "workState": "result_available",
+  "hasPendingChildRuns": false,
+  "latestTerminalRunId": "run:thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:ordinal:2",
+  "latestTerminalStatus": "completed",
+  "latestTerminalSummary": "Work is complete. The outage report and all four follow-up responses are saved.",
+  "latestTerminalResultContextTransferId": "context-transfer:type:subagent_result:source-thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:target-thread:785a2153-6c0b-43a8-9d3a-1378a4c77d37:4beb34dd-f936-4c68-b733-24758facc75b",
+  "providerInstanceId": "codex",
+  "model": "gpt-6.1-sol",
+  "options": [
+    {
+      "id": "reasoningEffort",
+      "value": "high"
+    },
+    {
+      "id": "serviceTier",
+      "value": "default"
+    }
+  ],
+  "summary": "Selected model is at capacity. Please try a different model.",
+  "resultContextTransferId": "context-transfer:type:subagent_result:source-thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:target-thread:785a2153-6c0b-43a8-9d3a-1378a4c77d37:3c5bc4c8-6b17-4a0b-b4e3-108e8b7e5c65",
+  "hasPendingQuestion": false,
+  "pendingApproval": null,
+  "waitTimedOut": false
+}

@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r04",
+  "image_sha256": "91a5f7ae98156e6743c40858af679453fb49add63e365718e47c81ce6d0cb815",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Rough layers of indigo, violet, and slate blue cross in restless strokes, while ivory, coral, and amber flashes open into a pale, quiet upper right.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

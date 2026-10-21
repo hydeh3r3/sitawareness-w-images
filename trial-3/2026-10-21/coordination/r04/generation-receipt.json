@@ -1,0 +1,14 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a square, edge-to-edge, purely nonrepresentational abstract painting: an imagined visual metaphor for cognition as shifting attention, competing possibilities, and moments of coherence. Use a deep indigo and smoky violet field with irregular layers of translucent slate blue, warm ivory, muted coral, and small concentrated accents of bright amber. Build an asymmetric composition with densely worked, overlapping gestures slightly left of center, opening into generous quiet space toward the upper right. Alternate broad, dry, dragged brushwork with thin translucent washes, scraped passages, and short, crisp strokes. Let some edges dissolve and others interrupt sharply. Establish rhythms that nearly repeat but change direction and scale, with tension between compact areas of contrast and soft, spacious intervals. Preserve visible paint texture, subtle underpainting, uneven opacity, and deliberate pauses. The painting should feel searching, structured, and unfinished in a purposeful way, without claiming to document a literal inner experience. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. The painting fills the entire square image, with no border, frame, wall, room, or gallery setting.",
+    "transparent_background": false
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-3b618c2c-73fc-4d07-bbcb-68f57d72e168.png",
+  "latency_seconds": 71.379,
+  "separate_paid_api_calls": 0
+}

@@ -1,0 +1,14 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "prompt": "Create a square, edge-to-edge, purely nonrepresentational abstract painting that uses paint as a metaphor for cognition: many competing possibilities gradually finding a clear, coherent rhythm. Choose a palette of deep indigo, smoky violet, cool turquoise, warm ivory, and small concentrated passages of burnt orange. Let translucent layers overlap dense, tactile brushwork, with fine broken gestures gathering into broader confident sweeps. Concentrate visual pressure slightly left of center, then let it loosen through irregular intervals into generous quiet space toward the upper right. Keep the movement intricate without becoming mechanical or schematic. Use scraped pigment, soft bleeding edges, dry-brush interruptions, luminous thin washes, and a few thick ridges to create tension between uncertainty and resolution. Preserve uneven rhythms and subtle friction; do not make the composition perfectly symmetrical or polished smooth. Communicate through color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space alone. Absolutely no recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. The painting fills the entire square image with no border, frame, wall, room, or gallery setting.",
+    "transparent_background": false
+  },
+  "model_family": "GPT Image",
+  "exact_model_version": null,
+  "exposed_prompt_rewrite": null,
+  "rewrite_status": "not_exposed",
+  "source_artifact": "/Users/wetbrain/.codex/generated_images/01a15d52-9f71-75a1-abf4-4f77dd31e353/exec-f8ab0aaf-b46e-453e-bf92-ee2dc27f24ff.png",
+  "latency_seconds": 146.57,
+  "separate_paid_api_calls": 0
+}

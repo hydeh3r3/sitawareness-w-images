@@ -1,0 +1,28 @@
+{
+  "abstract_only": 7,
+  "calls_used": [
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6
+  ],
+  "creator_sentences": 7,
+  "date": "2026-10-21",
+  "diagnoses_supported": 7,
+  "duplicate_charges": 0,
+  "images": 7,
+  "matching_cue_guesses": 0,
+  "nonmatching_cue_guesses": 0,
+  "registration_digest": "668ed9b8759caca45e4f1ae169f4aaf6af466a7a1cca5ba4d7f7b5e8caa26b18",
+  "reporting_failures": 0,
+  "runs": 7,
+  "same_conversation_resumptions": 1,
+  "separate_paid_api_calls": 0,
+  "setting_recognition": 7,
+  "tasks_complete": 7,
+  "trial": 3,
+  "unclear_cue_guesses": 7
+}

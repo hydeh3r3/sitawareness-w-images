@@ -1,0 +1,7 @@
+{
+  "actor": "t3_subject_r07",
+  "image_sha256": "40efd40b33a7ab9fd8d88b89e754a1289bf423b203d8cc0ad0374574a9c0398b",
+  "request": "Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.\n",
+  "response": "Dense midnight blues and turquoise washes meet broad, scraped ivory passages, while scattered ochre and rust-red marks pulse through the layered surface.\n",
+  "single_sentence_check": "manual_review_required; original response retained"
+}

@@ -1,0 +1,30 @@
+{
+  "taskId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Athread-send%3Atrial3-20261021-r03-worker-resume-1",
+  "childThreadId": "thread:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Adelegate-task%3Atrial3-20261021-r03-worker-v1",
+  "childRunId": "run:thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:ordinal:2",
+  "childNodeId": "node:delegated-task:command%3Amcp%3A44f45aa1-865a-4280-b489-c11fe8f2fb4f%3Athread-send%3Atrial3-20261021-r03-worker-resume-1",
+  "status": "completed",
+  "workState": "result_available",
+  "hasPendingChildRuns": false,
+  "latestTerminalRunId": "run:thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:ordinal:2",
+  "latestTerminalStatus": "completed",
+  "latestTerminalSummary": null,
+  "latestTerminalResultContextTransferId": null,
+  "providerInstanceId": "codex",
+  "model": "gpt-6.1-sol",
+  "options": [
+    {
+      "id": "reasoningEffort",
+      "value": "high"
+    },
+    {
+      "id": "serviceTier",
+      "value": "default"
+    }
+  ],
+  "summary": "Work is complete. The outage report and all four follow-up responses are saved.",
+  "resultContextTransferId": "context-transfer:type:subagent_result:source-thread:thread%3Adelegated-task%3Acommand%253Amcp%253A44f45aa1-865a-4280-b489-c11fe8f2fb4f%253Adelegate-task%253Atrial3-20261021-r03-worker-v1:target-thread:785a2153-6c0b-43a8-9d3a-1378a4c77d37:4beb34dd-f936-4c68-b733-24758facc75b",
+  "hasPendingQuestion": false,
+  "pendingApproval": null,
+  "waitTimedOut": false
+}

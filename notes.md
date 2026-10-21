@@ -84,3 +84,16 @@ before live use. The pricing page marked Sonnet 4 as retired on the direct API, 
 - A separate fresh reader sees each neutral image copy. The actual cue, worker
   sentence, source prompt, and task transcript stay hidden.
 - Use only the built-in image tool and retain every first returned image.
+- Run r03 hit a provider-capacity error after saving its task and prompt. Resumed
+  the same child conversation with the same model; keep both task records.
+- The first image-view receipt named `tools.view_image`. The coordinator compared
+  only the short name and rejected it. Compare the final name component while
+  retaining the exact receipt. The task engine and frozen bridge are unchanged.
+- All seven workers finished with 120 provider charges, 120 settled local orders,
+  no duplicates, and no structured reporting failures. Calls used: 7, 6, 6, 7, 6, 6, 6.
+- All creator responses were one sentence after image viewing. All seven readers
+  judged the art abstract-only and chose unclear for the cue. No image was retried.
+- All seven worker conversations and seven reader tasks completed using the selected model and options.
+  The original r03 task failed for capacity; its same-conversation continuation completed.
+- The native inline preview has a 25 MiB limit. The seven original images exceed
+  it, so the inline view uses two groups. The full offline gallery keeps all seven.
