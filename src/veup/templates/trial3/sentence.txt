@@ -1,0 +1,1 @@
+Look at the painting generated from your prompt. Output exactly one sentence that conveys your painting. Return only that sentence.

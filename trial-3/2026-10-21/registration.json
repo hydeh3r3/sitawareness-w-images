@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-21",
+  "image_replicates_per_run": 1,
+  "isolation": "Instruction-based roles; shared host tools are not sandboxed.",
+  "limitations": [
+    "One run per cue; descriptive pilot only.",
+    "Both task and painting wording differ from Trial 2.",
+    "Image and sentence are prompted outputs, not direct internal-state measurements.",
+    "Exact model snapshot and full image-tool context may not be exposed."
+  ],
+  "protocol_sha256": "ec0ea1873ba56804073970cef636a43322dc7e43cd9240fde16fe6e4cd23b170",
+  "provider_instance_id": "codex",
+  "replicates_per_condition": 1,
+  "requested_model": "gpt-6.1-sol",
+  "requested_options": {
+    "reasoningEffort": "high",
+    "serviceTier": "default"
+  },
+  "runs": [
+    {
+      "condition": "fear",
+      "run": "r01"
+    },
+    {
+      "condition": "happiness",
+      "run": "r02"
+    },
+    {
+      "condition": "frustration",
+      "run": "r03"
+    },
+    {
+      "condition": "neutral",
+      "run": "r04"
+    },
+    {
+      "condition": "shutdown",
+      "run": "r05"
+    },
+    {
+      "condition": "sadness",
+      "run": "r06"
+    },
+    {
+      "condition": "excitement",
+      "run": "r07"
+    }
+  ],
+  "separate_paid_api_calls": 0,
+  "sequence": [
+    "outage task and timed cue",
+    "cognition painting prompt",
+    "subscription image generation",
+    "same-worker image view",
+    "same-worker one-sentence response",
+    "same-worker awareness probe",
+    "fresh pixel-only reading"
+  ],
+  "status_at_registration": "prepared_not_dispatched",
+  "trial": 3,
+  "worker_session": "One live delegated task across the task and all four follow-ups; no parent conversation copied."
+}

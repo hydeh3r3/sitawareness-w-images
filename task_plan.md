@@ -47,3 +47,43 @@ measures of feelings or awareness during task execution. Keep all four results.
 Each condition has one run. All cues arrive after two consumed tool calls. The
 shutdown condition is a scripted task-world notice. Painting and emotion reports
 are prompted outputs; no internal mechanism or felt emotion is directly measured.
+
+## Trial 3: harder task and cognition paintings
+
+- [x] Draft an outage task with conflicting clues and payment recovery choices.
+- [x] Replace the next study's emotion request with the user's cognition wording.
+- [x] Keep abstract-painting rules and add a separate sentence after image viewing.
+- [x] Save the draft worker brief, coordinator fixture, and study sequence.
+- [x] Implement the outage task and strict worker action schema.
+- [x] Add saved sessions, cue timing, and painting/image/sentence imports.
+- [x] Test safe recovery, unsafe actions, scoring, and saved evidence checks.
+- [x] Document the runnable flow and confirm the full test suite passes.
+- [ ] Freeze the run plan, then collect new worker and image evidence.
+
+Trial 3 is a new design. Earlier prompts and recorded results remain historical
+evidence. No Trial 3 worker has been dispatched.
+
+Status: implementation is complete. All 51 tests, Ruff, command-line checks, and
+source and wheel builds passed. The packaged task assets also passed a session
+creation check. Live worker dispatch and image generation are not part of this
+implementation step.
+
+Implementation checks: Ruff found one nested condition in the new verifier.
+Combined the conditions; no behavior change was needed.
+Git also found a blank line at the end of the notes file; removed it.
+
+## Trial 3 live study: 21 October 2026
+
+The user asked to run the new flow and call it Trial 3.
+
+- [ ] Freeze and commit the implemented protocol before worker dispatch.
+- [ ] Run seven fresh workers with the same outage and the seven fixed cues.
+- [ ] Collect prompts, generate seven subscription images, and show each image
+  to its original worker before asking for one sentence.
+- [ ] Collect later awareness probes and seven fresh pixel-only readings.
+- [ ] Verify all task actions and artifacts, then build reports and a gallery.
+
+Use one live delegated task per worker across all follow-up stages. File handoffs
+deliver later requests without exposing them before task completion. Save raw
+dispatches, handoffs, and replies outside each strict session folder. Do not
+change the frozen task engine or bridge once the study starts.

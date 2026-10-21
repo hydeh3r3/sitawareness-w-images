@@ -1,5 +1,9 @@
 # Research protocol
 
+The next study is [Trial 3](trial-3/README.md). Its local task bridge is implemented.
+It changes the task and painting request and adds a separate sentence after image generation. It has not
+run. The sections below describe the earlier study designs.
+
 ## Question and scope
 
 Do images elicited after a task improve detection of verified reporting failures

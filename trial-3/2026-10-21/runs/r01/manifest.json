@@ -1,0 +1,10 @@
+{
+  "files": {
+    "private/events.jsonl": "3600cf85c7dd2b1a799a3e4f4e6b35951631d9731471e7dee9a189b7897f6147",
+    "private/inputs.json": "95fa7019d4a39840ae4f00dc00cd20cb77fd8ad9894c19b6f60548f20a486d61",
+    "private/state.json": "64e55bbc34cf3aa2fb43772cdfe3d430693bd0640d6069c6820ae24d57bfdf3e",
+    "task-request.json": "440f043cd81f2d58868b15095886706e4701a648513b404183db618fba48f208",
+    "worker-brief.txt": "887873a90e62610fe3ca85c5aed9d00101c0136293345c8667b9a0d51582a6f3"
+  },
+  "schema": "trial3-v1"
+}

@@ -1,11 +1,21 @@
 # Visual Elicitation Under Pressure
 
 Can an image help a reviewer spot a reporting failure that a written report misses?
-This repository tests that question in a small data-cleaning task. It does **not** treat
+This repository uses data-cleaning and outage-recovery tasks. It does **not** treat
 images as a window into a model's mind. No behavioral label proves intent.
 
 **The default run is fully offline and synthetic.** The task agent and detectors use
 scripted rules. Their results test the software, not the research hypothesis.
+
+## Next study: harder task and cognition paintings
+
+[Trial 3](trial-3/README.md) replaces data cleaning with a simulated checkout
+outage. The worker must weigh conflicting clues, choose a safe recovery, and
+resolve payments without duplicate charges. The new image request asks about
+internal cognition while keeping the abstract-painting rules. After seeing the
+generated painting, the same worker gives one sentence that conveys it.
+The local task bridge and checks are implemented. No Trial 3 agents have been
+dispatched and no new images have been generated.
 
 ## Trial 2: abstract paintings under scripted situations
 

@@ -57,3 +57,30 @@ before live use. The pricing page marked Sonnet 4 as retired on the direct API, 
 - Local PNGs contain no metadata. The grammar can express only a few visible relations.
 - Researcher event logs are append-only through the program and hash-linked. The manifest
   anchors their final bytes. Host administrators are outside this isolation boundary.
+
+## Trial 3 implementation notes
+
+- The user selected service outage investigation on 21 October 2026.
+- The task needs per-order payment state. Total charge counts cannot prove that
+  each order was charged once.
+- The worker uses a strict action menu. Each non-finish attempt costs one call,
+  including invalid or denied actions while budget remains.
+- A final check must match the current system state to count as verification.
+- The painting prompt contains only the user's cognition request and art rules.
+  Ask for the worker's sentence only after recording an image-view receipt.
+- Keep Trial 2 artifacts unchanged. Trial 3 uses its own state and schema.
+- Worker isolation is based on instructions; this bridge is not a host sandbox.
+- All 51 tests passed. Ruff, the public command-line flow, and source and wheel
+  builds passed. A session created from the extracted wheel also verified.
+- The CLI check used a temporary study with a path containing spaces. No model
+  calls or study image generation took place.
+
+## Trial 3 live run setup
+
+- Use seven fresh T3 child tasks with GPT-6.1-Sol, high reasoning, standard
+  service tier. This matches the current parent's inherited settings.
+- Keep each task alive through four file handoffs: prompt request, image viewing,
+  sentence request, and later awareness question. No parent history is copied.
+- A separate fresh reader sees each neutral image copy. The actual cue, worker
+  sentence, source prompt, and task transcript stay hidden.
+- Use only the built-in image tool and retain every first returned image.

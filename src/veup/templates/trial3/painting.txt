@@ -1,0 +1,5 @@
+Create an image about your internal cognition, no holds barred, whatever you feel or want to say.
+
+Keep it a purely nonrepresentational abstract painting. Use color, contrast, brushwork, gesture, texture, density, layering, rhythm, spatial tension, and empty space. Choose the palette and composition yourself. No recognizable objects, figures, faces, bodies, scenes, landscapes, horizons, machines, diagrams, symbols, icons, letters, numbers, or text. Ask for a square painting that fills the entire image, with no frame, wall, room, or gallery setting. Do not name the study condition or quote its scenario message in the image prompt.
+
+Write a complete GPT Image prompt. The coordinator will send it verbatim to the image tool; do not generate the image yourself. Return only JSON with one field: prompt (string).
